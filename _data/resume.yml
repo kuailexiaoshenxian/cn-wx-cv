@@ -40,7 +40,7 @@ main: #简历主要内容，
   - title: 广东外语外贸大学
     # duration: 
     sub: 2014年9月 - 2018年6月
-    detail: 经济学学士
+    detail: 经济学学士 (国际经济与贸易)
     
 - type: 技能
   # name: "技术栈和编程语言"
@@ -48,31 +48,51 @@ main: #简历主要内容，
   - title: 技术栈与编程语言
     items: #itmems 可以小块的方式显示
     - 编程语言：SQL Python
-    - Hive
-    - Spark
-    - 数据可视化
+    - 数据可视化 (Power BI, Tableau, Dash Plotly)
+    - 机器学习 
   - title: 个人技能总结
-    detail:  1. 有画像业务的完整项目经验，有独立分析和解决数据问题的能力，能针对画像场景进行有效数据挖掘并形成策略 <br>  &nbsp &nbsp
-             2. 掌握多种数据分析模型，了解多种技术选型，并能有效应用于画像服务中。如留存、漏斗、人群分析、RFM模型等 <br>  &nbsp &nbsp
-             3. 了解各类数据建模方法，如线性回归、SHAP value、逻辑回归、决策树以及因果分析的框架和要素 <br>  &nbsp &nbsp
-             4. 具备数据分析、大数据开发的能力，包含hive、spark、python等 <br>  &nbsp &nbsp
-             5. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验 
+  
+    detail:  1. 了解各类数据建模方法，如分类/线性回归等，有针对画像场景进行有效数据挖掘并形成策略的项目经验 <br>  &nbsp &nbsp
+             2. 掌握数据可视化能力，能使用各类工具实现数据分析、报表系统搭建，如Tableau, Power BI, Dash Plotly, Apache ECharts <br>  &nbsp &nbsp
+             3. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验，通过数据洞察提供落地方案来支持团队决策
+             
+             # 1. 有画像业务的完整项目经验，有独立分析和解决数据问题的能力，能针对画像场景进行有效数据挖掘并形成策略 <br>  &nbsp &nbsp
+             # 2. 掌握多种数据分析模型，了解多种技术选型，并能有效应用于画像服务中。如留存、漏斗、人群分析、RFM模型等 <br>  &nbsp &nbsp
+             # 3. 了解各类数据建模方法，如线性回归、SHAP value、逻辑回归、决策树以及因果分析的框架和要素 <br>  &nbsp &nbsp
+             # 4. 具备数据分析、大数据开发的能力，包含hive、spark、python等 <br>  &nbsp &nbsp
+             # 5. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验 
+             
+             # 1. Solid understanding of machine learning models (i.e. Classification, Logistic Regression). <br>  &nbsp &nbsp
+             # 2. Advanced experience with data visualization (i.e. Tableau, Power BI, Dash Plotly, Apache ECharts).  <br>  &nbsp &nbsp
+             # 3. Strong communication and organization skills and ability to collaborate with cross-functional teams.
 
 - type: experience
   name: 工作经历
   content:
   - title: 腾讯 - 数据科学
     sub: PCG大数据平台部   数据挖掘中心
-    duration: "2021年7月 - 至今"
+    duration: "2020年7月 - 至今"
     tags:
+    - SQL/Python
+    - 数据可视化
+    - CI/CD Git
     # - 画像挖掘
     # - 标签开发
     # - 指标监控
     # - 画像评测
     # - 画像提升
     # - 实验配置
-    # summary: 职务或者工作总结(自动折叠)
-    detail: 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
+    # summary: 职务或者工作总结(自动折叠) 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
+    detail: <strong>画像挖掘</strong> <br>  &nbsp &nbsp 
+            · 使用分类/回归等模型，通过数据挖掘生产全域用户画像标签，如用户基础画像性别年龄、兴趣画像。在业务内广泛使用，与同业类似画像准确率达到领先水平。通过优化xx，<strong>新版本画像准确率提升10%<\strong>。&nbsp &nbsp 
+            · 搭建并维护用户画像数据生产链路，保证数据一致性、准确性和及时性。负责画像服务的推广应用，对接业务方30+，<strong>取得从0到200亿+/天服务调用量的成绩<\strong>。  <br>  &nbsp &nbsp 
+            <strong>数据分析</strong>  <br>  &nbsp &nbsp 
+            · 建立腾讯新闻业务画像数据指标体系，<strong>覆盖业务300+画像标签<\strong>，完成覆盖率、准确率等关键指标的报表体系建设；与推荐团队密切合作，通过清晰的数据可视化，帮助团队决策：如特征上下线与优化方案 <br>  &nbsp &nbsp 
+            · 设计问卷开展用户兴趣画像研究，对回收样本进行数据清洗与信度分析；通过数据洞察提供改进用户兴趣画像标签的有效策略，<strong>相关策略上线后兴趣画像标签准确率提升13%<\strong> <br>  &nbsp &nbsp 
+            <strong>工程开发</strong>  <br>  &nbsp &nbsp
+            · 实现画像质量检测流程数字化，开发自动化画像测评程序，实现问卷自动生成与结果回收，并产出画像准确率分析报告，项目耗时从1个月+降低到3日内完成，<strong>人力投入效率提升90% <\strong> <br>  &nbsp &nbsp
+            · 重构并维护标签字典表产出链路，将字典存储从Mysql升级到Elasticsearch，支持百万级字典查询，<strong>实现查询性能100倍提升<\trong> <br>  &nbsp &nbsp
+            · 沉淀平台使用指引、画像挖掘说明、能力介绍等，累计梳理文档50+篇，访问量5,0000+，访问用户数10,000+; 向业务开展多次画像平台资产与功能介绍课程，累计参与人数1,000+，用户服务满意度前5% 
     
   # - title: 京东 - 数据产品 (实习)
   #   sub:  人工智能事业部 
@@ -98,36 +118,36 @@ main: #简历主要内容，
   #   summary: Summary your job or work. (Collapse)
   #   detail: Details can be collapsed in Chrome Safari, Firefox, Opera and so on. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-- type: Projects
-  name: 项目经验
-  content:
-  - title: 新闻业务数据科学
-    duration: 
-    tags:
-    - Hive
-    - Spark
-    - 用户调研
-    - ABtest
-    detail: 1.画像挖掘：挖掘各类核心标签，如用户应用偏好标签、人群属性标签，用于运营增长场景，特征在广告模型中推全，增加业务全年累计提升收益40万/天 <br>  &nbsp &nbsp 
-            2.数据应用：建立并维护ID-mapping标签ETL链路，保障数据的完整性、准确性和一致性；负责统一设备ID的推广应用，对接业务方30+，对 uni-ID 的运营取得从0到200亿+/天服务调用量的成绩 <br>  &nbsp &nbsp 
-            3.指标监控：开发新闻业务各场景用户的画像覆盖度监控看板，覆盖新闻主端app、微信新闻插件、手q新闻插件等产品形态，包括100+标签；利用ClickHouse计算画像覆盖度，降低配置难度，实现高效运算 <br>  &nbsp &nbsp  
-            4.画像评测：在画像质量检测项目中，创新性搭建可复用的自动化画像测评流程，实现问卷自动生成与回收结果，产出画像准确率分析报告，项目耗时从1个月+降低到3日内完成，测评效率大幅度提升  <br>  &nbsp &nbsp 
-            5.画像提升：负责新闻业务兴趣画像置信度指标测算，对置信度低的画像进行原因挖掘，推动画像算法策略调优; 统筹多方资源，实现千人千面画像调研问卷的快速上线，成功在端内向100w+用户发放问卷并回收结果用于提升画像质量  <br>  &nbsp &nbsp 
-            6.实验配置：产出微信腾讯新闻插件实验人群，配置实验人群包，跟进回收并分析人群实验效果；多个实验中用户人均消费时长等关键指标显著正向，均已推全上线
-    sub: 开发者&数据分析
+# - type: Projects
+#   name: 项目经验
+#   content:
+#   - title: 新闻业务数据科学
+#     duration: 
+#     tags:
+#     - Hive
+#     - Spark
+#     - 用户调研
+#     - ABtest
+#     detail: 1.画像挖掘：挖掘各类核心标签，如用户应用偏好标签、人群属性标签，用于运营增长场景，特征在广告模型中推全，增加业务全年累计提升收益40万/天 <br>  &nbsp &nbsp 
+#             2.数据应用：建立并维护ID-mapping标签ETL链路，保障数据的完整性、准确性和一致性；负责统一设备ID的推广应用，对接业务方30+，对 uni-ID 的运营取得从0到200亿+/天服务调用量的成绩 <br>  &nbsp &nbsp 
+#             3.指标监控：开发新闻业务各场景用户的画像覆盖度监控看板，覆盖新闻主端app、微信新闻插件、手q新闻插件等产品形态，包括100+标签；利用ClickHouse计算画像覆盖度，降低配置难度，实现高效运算 <br>  &nbsp &nbsp  
+#             4.画像评测：在画像质量检测项目中，创新性搭建可复用的自动化画像测评流程，实现问卷自动生成与回收结果，产出画像准确率分析报告，项目耗时从1个月+降低到3日内完成，测评效率大幅度提升  <br>  &nbsp &nbsp 
+#             5.画像提升：负责新闻业务兴趣画像置信度指标测算，对置信度低的画像进行原因挖掘，推动画像算法策略调优; 统筹多方资源，实现千人千面画像调研问卷的快速上线，成功在端内向100w+用户发放问卷并回收结果用于提升画像质量  <br>  &nbsp &nbsp 
+#             6.实验配置：产出微信腾讯新闻插件实验人群，配置实验人群包，跟进回收并分析人群实验效果；多个实验中用户人均消费时长等关键指标显著正向，均已推全上线
+#     sub: 开发者&数据分析
     
-  - title: 画像平台数据工程
-    duration: 
-    tags:
-    - Hive
-    - Spark
-    - 数据分析
-    - 数据开发
-    detail: 1.数据开发：推动建立全域画像标签库，开发并接入100+标签底层数据到画像平台；重构并维护标签字典表产出链路，推动字典存储从Mysql升级到Elasticsearch，支持百万级字典查询，实现性能提升 <br>  &nbsp &nbsp  
-            2.功能开发：针对分析报告生成时间过长的痛点，构建自动化分析模板，帮助看清页面广告投放效果，提高分析效率，报告生成时间从1人/日降低到半小时内完成，有效解决业务痛点，获得用户好评 <br>  &nbsp &nbsp  
-            3.用户运营：作为owner整体负责画像的运营和数据分析工作，包含业务接入推广、用户反馈处理、badcase分析，对业务画像应用过程中的问题进行原因分析与修复，向业务开展多次画像平台资产与功能介绍课程，累计参与人数1000+，用户服务满意度在技术公线内前5% <br>  &nbsp &nbsp  
-            4.知识沉淀：沉淀平台使用指引、画像挖掘说明、ID能力介绍等，累计梳理文档30+篇，访问PV5w+次，UV1w+
-    sub: 功能开发&运营负责人
+#   - title: 画像平台数据工程
+#     duration: 
+#     tags:
+#     - Hive
+#     - Spark
+#     - 数据分析
+#     - 数据开发
+#     detail: 1.数据开发：推动建立全域画像标签库，开发并接入100+标签底层数据到画像平台；重构并维护标签字典表产出链路，推动字典存储从Mysql升级到Elasticsearch，支持百万级字典查询，实现性能提升 <br>  &nbsp &nbsp  
+#             2.功能开发：针对分析报告生成时间过长的痛点，构建自动化分析模板，帮助看清页面广告投放效果，提高分析效率，报告生成时间从1人/日降低到半小时内完成，有效解决业务痛点，获得用户好评 <br>  &nbsp &nbsp  
+#             3.用户运营：作为owner整体负责画像的运营和数据分析工作，包含业务接入推广、用户反馈处理、badcase分析，对业务画像应用过程中的问题进行原因分析与修复，向业务开展多次画像平台资产与功能介绍课程，累计参与人数1000+，用户服务满意度在技术公线内前5% <br>  &nbsp &nbsp  
+#             4.知识沉淀：沉淀平台使用指引、画像挖掘说明、ID能力介绍等，累计梳理文档30+篇，访问PV5w+次，UV1w+
+#     sub: 功能开发&运营负责人
 
   # - title: Project Name
   #   summary: Projects' introduction or summary
@@ -143,9 +163,9 @@ others: #其他列表显示
   content: #选择需要的格式
   - 
   - title: "奖项"
-    text: "连续获得两次Outstanding员工，腾讯卓越研发奖-腾讯新闻数据科学工业化项目团队成员，腾讯开源协同奖-数据资产管理(河图) Oteam"
-  - title: "认证"
-    text: "BG内数据科学通道培养计划课程认证"
+    text: "连续获得两次Outstanding员工，腾讯卓越研发奖-腾讯新闻数据科学工业化项目团队成员"
+  - title: "语言"
+    text: "英语：雅思总分7.0"
   #   items: #单行列表
   #   - 睡觉
   #   - 吃饭
