@@ -50,8 +50,8 @@ main: #简历主要内容，
     - 编程语言：SQL Python
     - 原型工具：Figma
     # - 数据可视化：Power BI, Tableau
-    - 大数据工具：Hadoop, Spark, Hive, Mysql, OLAP (Clickhouse, Elasticsearch), stream-processing tool(Flink、kafka)
-  - title: 个人技能总结
+    - 大数据工具：Hadoop, Spark, Hive, Mysql, Presto, OLAP (Clickhouse, Elasticsearch)
+  - title: 个人总结
   
     detail:  1. 3年数据开发相关经历，针对画像场景进行数据挖掘并形成策略，持续迭代画像平台与画像数据体系，为业务提供可靠的数据服务 <br>  &nbsp &nbsp
              2. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验 
@@ -111,7 +111,7 @@ main: #简历主要内容，
     tags:
     # summary: 职务或者工作总结(自动折叠)
     detail: <strong>产品设计</strong> <br>  &nbsp &nbsp 
-           · 负责药学知识图谱的产品功能策划及优化迭代，负责撰写需求文档，梳理数据结构，输出产品原型图，推动接入药品处方审核平台
+           · 负责药学知识图谱的产品功能策划及优化迭代，负责撰写需求文档，梳理图谱数据结构，输出产品原型图，推动接入药品处方审核平台，平台北京某医院药剂科上线使用
 
   # - title: 晨星资讯 - 数据分析 (实习)
   #   sub:  全球基金部门
