@@ -44,13 +44,13 @@ main: #简历主要内容，
     
 - type: 技能
   # name: "技术栈和编程语言"
-  content:
+  contentc
   - title: 技术栈与编程语言
     items: #itmems 可以小块的方式显示
     - 编程语言：SQL Python
     - 原型工具：Figma
     # - 数据可视化：Power BI, Tableau
-    - 大数据工具：Hadoop, Spark, Hive, Mysql, olap(clickhouse, StarRocks)
+    - 大数据工具：Hadoop, Spark, Hive, Mysql, OLAP (Clickhouse, Elasticsearch), stream-processing tool(Flink、kafka)
   - title: 个人技能总结
   
     detail:  1. 3年数据开发相关经历，有针对画像场景进行有效数据挖掘并形成策略的项目经验，持续迭代画像平台与画像数据体系，为业务提供可靠的数据服务 <br>  &nbsp &nbsp
