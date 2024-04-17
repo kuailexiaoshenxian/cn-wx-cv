@@ -44,7 +44,7 @@ main: #简历主要内容，
     
 - type: 技能
   # name: "技术栈和编程语言"
-  contentc
+  content:
   - title: 技术栈与编程语言
     items: #itmems 可以小块的方式显示
     - 编程语言：SQL Python
