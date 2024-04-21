@@ -31,4 +31,9 @@ chrome 优先
   section > ul li:last-child {
     margin-bottom: 0;
   }
+  
+    /* 添加粗体样式 */
+  strong {
+    font-weight: bold;
+  }
 }
