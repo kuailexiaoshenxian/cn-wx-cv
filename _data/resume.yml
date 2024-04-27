@@ -47,14 +47,14 @@ main: #简历主要内容，
   content:
   - title: <font face="华文细黑粗体">技能栈与编程语言</font>
     items: #itmems 可以小块的方式显示
-    - 编程语言：SQL Python
-    - 原型工具：Figma
+    - <font face="汉仪楷体">编程语言：SQL Python</font>
+    - <font face="汉仪楷体">原型工具：Figma</font>
     # - 数据可视化：Power BI, Tableau
-    - 大数据工具：Hadoop, Spark, Hive, Mysql, Presto, OLAP (Clickhouse, Elasticsearch)
-  - title: 经验总结
+    - <font face="汉仪楷体">大数据工具：Hadoop, Spark, Hive, Mysql, Presto, OLAP (Clickhouse, Elasticsearch)</font>
+  - title: <font face="华文细黑粗体">经验总结</font>
   
-    detail:  <strong>1. 3年数据开发经历，针对画像场景进行数据挖掘并形成策略，持续迭代画像平台与画像数据体系，提供可靠的数据服务</strong> <br>  &nbsp &nbsp
-             <strong>2. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验 </strong>
+    detail:  <font face="汉仪楷体"><strong>1. 3年数据开发经历，针对画像场景进行数据挖掘并形成策略，持续迭代画像平台与画像数据体系，提供可靠的数据服务</strong></font> <br>  &nbsp &nbsp
+             <font face="汉仪楷体"><strong>2. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验 </strong></font>
 
              # 2年以上数据产品经理经验，具备数据平台和数据治理实践经验
              # 熟练使用sql、python，熟悉大数据技术概念如hadoop、spark、hive、flink、mq、kafka等；
