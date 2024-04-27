@@ -42,16 +42,16 @@ main: #简历主要内容，
     sub: 经济学学士 （国际经济与贸易）2014年9月 - 2018年6月
     # detail: Calculus, Linear Algebra, Probability Theory, Statistics, Microeconomics, Macroeconomics, Econometrics
     
-- type: 个人技能
-  # name: "技术栈和编程语言"
+- type: 个人总结
+  name: <font face="华文细黑黑体">个人总结</font>
   content:
-  - title: 技术栈与编程语言
+  - title: 技能栈与编程语言
     items: #itmems 可以小块的方式显示
     - 编程语言：SQL Python
     - 原型工具：Figma
     # - 数据可视化：Power BI, Tableau
     - 大数据工具：Hadoop, Spark, Hive, Mysql, Presto, OLAP (Clickhouse, Elasticsearch)
-  - title: 个人总结
+  - title: 经验总结
   
     detail:  <strong>1. 3年数据开发经历，针对画像场景进行数据挖掘并形成策略，持续迭代画像平台与画像数据体系，提供可靠的数据服务</strong> <br>  &nbsp &nbsp
              <strong>2. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验 </strong>
