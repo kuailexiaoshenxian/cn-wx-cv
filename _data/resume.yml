@@ -27,7 +27,7 @@ contact: #联系方式连接等3~5行
 #main下面是主体内容，类别条数不限
 main: #简历主要内容，
 - type: education #类别为ID
-  name: 教育 #显示名称，空则使用type
+  name: <font face="华文细黑黑体">教育</font> #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 中山大学 & University of Virginia（双硕士）
     # duration: 2018年9月 - 2021年7月
