@@ -3,7 +3,7 @@
 
 title: "杨诗蕙简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
-name: "杨诗蕙"
+name: "<font face="楷体"> 杨诗蕙 </font>"
 jobtitle: "数据科学/数据产品" #可空不显示
 photo: "assets/img/WechatIMG29.jpeg" #照片可空，不显示
 
