@@ -133,7 +133,7 @@ main: #简历主要内容，
     # - 数据可视化
     - 项目管理
     # summary: 职务或者工作总结(自动折叠)
-    detail: <font size=4><strong>产品设计</strong></font> <br>  &nbsp &nbsp 
+    detail: <font size=3><strong>产品设计</strong></font> <br>  &nbsp &nbsp 
            · 负责药学知识图谱的产品功能策划及优化迭代，负责撰写需求文档，梳理图谱数据结构，输出产品原型图，图谱产品在北京某医院药剂科上线使用
 
   # - title: 晨星资讯 - 数据分析 (实习)
