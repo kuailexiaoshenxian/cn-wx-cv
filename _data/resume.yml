@@ -125,16 +125,16 @@ main: #简历主要内容，
             <br>  &nbsp &nbsp
             <font face="等线"><font size=3><strong>项目收益：负责PCG画像全链路应用，PCG基础画像、兴趣画像推广覆盖腾讯视频、新闻、社交线、信服线等12个PCG核心业务，日均画像服务调用量900亿+，画像平台周均活跃用户1000+。ID体系、人群画像、广告合作专项累积协助业务创收x亿元 </strong></font></font>
     
-  - title: 京东 - 数据产品 (实习)
-    sub:  人工智能事业部 
-    duration: "2019年6月 - 2019年8月"
+  - title: <font face="华文细黑黑体">京东 - 数据产品 (实习)</font>
+    sub:  <font face="楷体">人工智能事业部 </font>
+    duration: <font face="汉仪楷体">2019年6月 - 2019年8月</font>
     tags:
-    - 产品原型设计
+    - <font face="黑体">产品原型设计</font>
     # - 数据可视化
-    - 项目管理
+    - <font face="黑体">项目管理</font>
     # summary: 职务或者工作总结(自动折叠)
     detail: <font size=3><strong>产品设计</strong></font> <br>  &nbsp &nbsp 
-           · 负责药学知识图谱的产品功能策划及优化迭代，负责撰写需求文档，梳理图谱数据结构，输出产品原型图，图谱产品在北京某医院药剂科上线使用
+           <font face="等线">· 负责药学知识图谱的产品功能策划及优化迭代，负责撰写需求文档，梳理图谱数据结构，输出产品原型图，图谱产品在北京某医院药剂科上线使用</font>
 
   # - title: 晨星资讯 - 数据分析 (实习)
   #   sub:  全球基金部门
@@ -197,10 +197,10 @@ others: #其他列表显示
   name: <font face="华文细黑黑体">其他</font>
   content: #选择需要的格式
   - 
-  - title: "奖项"
-    text: "连续获得两次Outstanding员工，腾讯卓越研发奖-腾讯新闻数据科学工业化项目团队成员"
-  - title: "语言"
-    text: "英语：雅思总分7.0"
+  - title: <font face="华文细黑粗体">奖项</font>
+    text: <font face="等线">连续获得两次Outstanding员工，腾讯卓越研发奖-腾讯新闻数据科学工业化项目团队成员</font>
+  - title: <font face="华文细黑粗体">语言</font>
+    text: <font face="等线">英语：雅思总分7.0</font>
   #   items: #单行列表
   #   - 睡觉
   #   - 吃饭
@@ -222,7 +222,7 @@ footer: #脚注多组
   - text: "简历脚注"
   #   href: '/'
   - text: "Made with &hearts; by Hazelyang"
-    href: "https://hazelyang518.github.io/cv/"
+    # href: "https://hazelyang518.github.io/cn-wxcv/"
 
 #页面额外js脚本，如xx统计
 scripts:
