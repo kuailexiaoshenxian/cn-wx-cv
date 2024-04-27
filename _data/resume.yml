@@ -42,7 +42,7 @@ main: #简历主要内容，
     sub: 经济学学士 （国际经济与贸易）2014年9月 - 2018年6月
     # detail: Calculus, Linear Algebra, Probability Theory, Statistics, Microeconomics, Macroeconomics, Econometrics
     
-- type: <font face="华文细黑黑体">个人技能</font>
+- type: 个人技能
   # name: "技术栈和编程语言"
   content:
   - title: 技术栈与编程语言
