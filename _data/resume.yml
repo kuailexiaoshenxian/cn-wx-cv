@@ -3,7 +3,7 @@
 
 title: "杨诗蕙简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
-name: "<font face="楷体"> 杨诗蕙 </font>"
+name: "杨诗蕙"
 jobtitle: "数据科学/数据产品" #可空不显示
 photo: "assets/img/WechatIMG29.jpeg" #照片可空，不显示
 
@@ -81,7 +81,7 @@ main: #简历主要内容，
     sub: PCG大数据平台部   数据挖掘中心
     duration: "2021年7月 - 至今"
     tags:
-    - 用户画像体系构建
+    - <font face="黑体">用户画像体系构建</font>
     - 标签数据链路搭建
     - 平台功能建设
     - 运营推广
