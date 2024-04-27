@@ -32,7 +32,7 @@ main: #简历主要内容，
   - title: <font face="华文细黑粗体">中山大学 & University of Virginia（双硕士）</font>
     duration: <font face="汉仪楷体">2018年9月 - 2021年7月</font>
     sub: <font face="楷体">经济学类硕士 （国际商务） </font>
-    detail: 
+    detail: 商业分析, 统计学, 供应链管理, 国际经济学, 计量经济学, 战略分析
     # detail: 商业分析, 统计学, 供应链管理, 国际经济学, 计量经济学, 战略分析
   # - title: 
   #   duration: 2019年9月 - 2020年7月
@@ -41,7 +41,7 @@ main: #简历主要内容，
   - title: <font face="华文细黑粗体">广东外语外贸大学</font>
     duration: <font face="汉仪楷体">2014年9月 - 2018年6月</font>
     sub: <font face="楷体">经济学学士 （国际经济与贸易）</font>
-    detail:  
+    detail:  Calculus, Linear Algebra, Probability Theory, Statistics, Microeconomics, Macroeconomics, Econometrics
     # detail: Calculus, Linear Algebra, Probability Theory, Statistics, Microeconomics, Macroeconomics, Econometrics
     
 - type: 个人总结
