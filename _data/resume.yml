@@ -50,7 +50,7 @@ main: #简历主要内容，
   - title: <font face="华文细黑粗体">经验总结</font>
   
     detail:  <font face="等线">1) 三年后台 & 数据工程经历，了解数据上报，ETL，数仓，数据可视化的全流程</font> <br>  &nbsp &nbsp
-             <font face="等线">2) 一年产品经验，了解 ABtest，之前负责 TAB for AMS 模块，现独立负责基于 data warehouse native（eg BigQuery，DataBricks）的实验平台出海 </font>
+             <font face="等线">2) 一年产品经验，了解 AB test，之前负责 TAB for AMS 模块，现独立负责基于 data warehouse native（eg,BigQuery，DataBricks）的实验平台出海 </font>
 
              # 2年以上数据产品经理经验，具备数据平台和数据治理实践经验
              # 熟练使用sql、python，熟悉大数据技术概念如hadoop、spark、hive、flink、mq、kafka等；
