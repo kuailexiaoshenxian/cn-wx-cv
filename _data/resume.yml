@@ -194,9 +194,9 @@ others: #其他列表显示
   content: #选择需要的格式
   - 
   - title: <font face="华文细黑粗体">奖项</font>
-    text: <font face="等线">曾连续获得四五星</font>
-  - title: <font face="华文细黑粗体">语言</font>
-    text: <font face="等线">英语口语交流良好</font>
+    text: <font face="等线">曾连续获得四五星（虽然这也算不上什么奖项 orz</font>
+  - title: <font face="华文细黑粗体">其他</font>
+    text: <font face="等线">性格外向，积极主动，擅长沟通，可以使用英语口语交流，座右铭：有道无术 术尚可求 有术无道 止于术</font>
   #   items: #单行列表
   #   - 睡觉
   #   - 吃饭
