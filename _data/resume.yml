@@ -4,7 +4,7 @@
 title: "钱佩雨简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: 钱佩雨
-jobtitle: "数据科学/数据产品" #可空不显示
+jobtitle: "数据产品" #可空不显示
 photo: "assets/img/WechatIMG29.jpeg" #照片可空，不显示
 
 #联系方式
@@ -29,18 +29,14 @@ main: #简历主要内容，
 - type: education #类别为ID
   name: <font face="华文细黑黑体">教育经历</font> #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
-  - title: <font face="华文细黑粗体">中山大学 & University of Virginia（双硕士）</font>
-    sub: <font face="楷体">经济学类硕士 （国际商务） </font>
+  - title: <font face="华文细黑粗体">西安理工大学</font>
+    sub: <font face="楷体">管理科学与工程</font>
     duration: <font face="汉仪楷体">2018年9月 - 2021年7月</font>
-    # detail: 商业分析, 统计学, 供应链管理, 国际经济学, 计量经济学, 战略分析
   # - title: 
   #   duration: 2019年9月 - 2020年7月
   #   sub: Master of Science (Global Commerce)
   #   detail: 
-  - title: <font face="华文细黑粗体">广东外语外贸大学</font>
-    sub: <font face="楷体">经济学学士 （国际经济与贸易）</font>
-    duration: <font face="汉仪楷体">2014年9月 - 2018年6月</font>
-    # detail: Calculus, Linear Algebra, Probability Theory, Statistics, Microeconomics, Macroeconomics, Econometrics
+
     
 - type: 个人总结
   name: <font face="华文细黑黑体">个人总结</font>
