@@ -9,10 +9,10 @@ photo: "assets/img/WechatIMG29.jpeg" #照片可空，不显示
 
 #联系方式
 contact: #联系方式连接等3~5行
-- text: "hazel.yang518@gmail.com" #文本内容
-  href: 'mailto:hazel.yang518@gmail.com' #链接，无链接则空  
+- text: "echoleebo@foxmail.com" #文本内容
+  href: 'mailto:echoleebo@foxmail.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
-- text: "+86 18826101678"
+- text: "+86 18821690781"
   icon: 'icons/phone.svg'
   # - text: "your-website.com"
   #  href: 'http://your-website.com'
@@ -31,7 +31,7 @@ main: #简历主要内容，
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: <font face="华文细黑粗体">西安理工大学</font>
     sub: <font face="楷体">管理科学与工程</font>
-    duration: <font face="汉仪楷体">2018年9月 - 2021年7月</font>
+    duration: <font face="汉仪楷体">2017年9月 - 2020年7月</font>
   # - title: 
   #   duration: 2019年9月 - 2020年7月
   #   sub: Master of Science (Global Commerce)
@@ -43,14 +43,14 @@ main: #简历主要内容，
   content:
   - title: <font face="华文细黑粗体">技能栈与编程语言</font>
     items: #itmems 可以小块的方式显示
-    - <font face="等线">编程语言：SQL Python</font>
-    - <font face="等线">原型工具：Figma</font>
+    - <font face="等线">编程语言：SQL Python Java </font>
+    - <font face="等线">其他工具：Figma Xmind</font>
     # - 数据可视化：Power BI, Tableau
-    - <font face="等线">大数据工具：Hadoop, Spark, Hive, Mysql, Presto, OLAP (Clickhouse, Elasticsearch)</font>
+    - <font face="等线">大数据：HDFS, Hive, Mysql, Spark, Flink, OLAP (Impala, Kudu, Clickhouse)</font>
   - title: <font face="华文细黑粗体">经验总结</font>
   
-    detail:  <font face="等线">1) 三年数据开发经历，针对画像场景进行数据挖掘并形成策略，持续迭代画像平台与画像数据体系，提供可靠的数据服务</font> <br>  &nbsp &nbsp
-             <font face="等线">2) 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验 </font>
+    detail:  <font face="等线">1) 三年后台 & 数据工程经历，了解数据上报，ETL，数仓，可视化的全流程</font> <br>  &nbsp &nbsp
+             <font face="等线">2) 一年产品经验，了解 ABtest，现独立负责基于 data warehouse native 的实验平台出海 </font>
 
              # 2年以上数据产品经理经验，具备数据平台和数据治理实践经验
              # 熟练使用sql、python，熟悉大数据技术概念如hadoop、spark、hive、flink、mq、kafka等；
@@ -73,12 +73,12 @@ main: #简历主要内容，
 - type: experience
   name: <font face="华文细黑黑体">工作经历</font>
   content:
-  - title: <font face="华文细黑粗体">腾讯 - 数据科学</font>
-    sub: <font face="楷体">PCG大数据平台部   数据挖掘中心</font>
-    duration:  <font face="汉仪楷体">2021年7月 - 至今</font>
+  - title: <font face="华文细黑粗体">腾讯 - 后台开发</font>
+    sub: <font face="楷体">PCG大数据平台部</font>
+    duration:  <font face="汉仪楷体">2020年7月 - 2020 年 6 月</font>
     tags:
-    - <font face="黑体">用户画像体系构建</font>
-    - <font face="黑体">标签数据链路搭建</font>
+    - <font face="黑体">数据平台离线链路构建</font>
+    - <font face="黑体">数据治理</font>
     - <font face="黑体">平台功能建设</font>
     - <font face="黑体">运营推广</font>
     - <font face="黑体">服务落地</font>
@@ -194,9 +194,9 @@ others: #其他列表显示
   content: #选择需要的格式
   - 
   - title: <font face="华文细黑粗体">奖项</font>
-    text: <font face="等线">连续获得两次Outstanding员工，腾讯卓越研发奖-腾讯新闻数据科学工业化项目团队成员</font>
+    text: <font face="等线">曾连续获得四五星</font>
   - title: <font face="华文细黑粗体">语言</font>
-    text: <font face="等线">英语：雅思总分7.0</font>
+    text: <font face="等线">英语口语交流良好</font>
   #   items: #单行列表
   #   - 睡觉
   #   - 吃饭
