@@ -135,12 +135,11 @@ main: #简历主要内容，
             · 易用性：支持跨数据源查询、支持用户调试 SQL 正确性、支持写入条数监控，任务关键指标上报等<br> &nbsp &nbsp 
             <br>
             <font face="等线"><font size=4><strong> &nbsp 2) 离线 DAG</strong></font>  <br>  &nbsp &nbsp 
-            · 参与建设数据处理平台上面的离线 DAG 编排，主导 ADHOC 能力建设，目前 DAG 支持 DQC，SuperSQl，Pysql，Pyspark，Http，SparkJar 等节点 <br>  &nbsp &nbsp 
+            · 参与建设数据处理平台上面的离线 DAG 编排，主导 ADHOC 能力建设，目前 DAG 支持 DQC、SuperSQl、Pysql、Pyspark、Http、SparkJar 等节点 <br>  &nbsp &nbsp 
             <br>
             <font face="等线"><font size=4><strong> &nbsp 3) 承担平台运营工作</strong></font>  <br>  &nbsp &nbsp
             · 策划并且举办《大数据前沿及批流一体的Flink技术揭秘 | 原力技术沙龙》直播观看人数<font color=#FF7F00><strong> 1000+ </strong></font>，持续在线<font color=#FF7F00><strong> 500+ </strong></font> <br>  &nbsp &nbsp
-            · 发表 KM 文字 <a href="https://km.woa.com/articles/show/567781">万字长文带你了解大数据的前世今生</a> 获得收藏 <font color=#FF7F00><strong> 100+ </strong></font> <br>  &nbsp &nbsp
-  # - title: 晨星资讯 - 数据分析 (实习)
+            · 发表 KM 文章 <a href="https://km.woa.com/articles/show/567781">万字长文带你了解大数据的前世今生</a> 获得收藏 <font color=#FF7F00><strong> 100+ </strong></font>
   #   sub:  全球基金部门
   #   duration: "2018年6月 - 2018年8月"
   #   tags:
