@@ -111,7 +111,7 @@ main: #简历主要内容，
             <br> 
   - title: <font face="华文细黑粗体">腾讯 - 后台开发 & 数据工程</font>
     sub: <font face="楷体">PCG大数据平台部</font>
-    duration:  <font face="汉仪楷体">2020 年 6 月 - 2023 年 5 月</font>
+    duration:  <font face="汉仪楷体">2020年6月 - 2023年5月</font>
     tags:
     - <font face="黑体">离线链路构建</font>
     - <font face="黑体">Adhoc 模块建设</font>
