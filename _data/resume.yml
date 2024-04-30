@@ -49,7 +49,7 @@ main: #简历主要内容，
     - <font face="等线">大数据：HDFS, Hive, Mysql, Spark, Flink, OLAP (Impala, Kudu, Clickhouse)</font>
   - title: <font face="华文细黑粗体">专业技能</font>
   
-    detail:  <font face="等线">1) 具备大数据平台模块从 0-1 规划落地经验，如离线处理， 离线调度，实验平台 warehouse native 能力建设，PCAD/WXAD 联合实验；</font> <br>  &nbsp &nbsp
+    detail:  <font face="等线">1) 具备大数据平台模块从 0-1 规划落地经验，如离线处理，调度，离线 DAG，实验平台 warehouse native 能力建设，PCAD/WXAD 联合实验；</font> <br>  &nbsp &nbsp
              <font face="等线">2) 具备数据产品和中后台能力，可以使用 sql、python，熟悉大数据组件如 hadoop、spark、hive、flink、kafka 等，能与研发，测试高效沟通；</font> <br>  &nbsp &nbsp
              <font face="等线">3) 掌握数据产品常用数据技能，如埋点，上报，用户行为分析，指标体系，SQL 取数，看板搭建等；</font> <br>  &nbsp &nbsp
              <font face="等线">4) 具备良好项目管理和风险意识，积极主动，认真负责，保证项目平稳推进。</font> <br>  &nbsp &nbsp
@@ -99,12 +99,12 @@ main: #简历主要内容，
     # summary: 职务或者工作总结(自动折叠) 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
     detail: <font face="等线"><font size=4><strong>项目简介：作为实验平台产品策划，打造科学，准确的实验决策平台，并建设海外版本支持游戏工作室</strong></font></font> <br>  &nbsp &nbsp
             <font face="等线"><font size=4><strong> 1) AMS 广告实验</strong></font> <br>  &nbsp &nbsp
-            · 作为 owner 整体负责 AMS 业务的产品和运营工作，包含业务接入实验、用户问题处理，并根据用户反馈进行平台功能设计与迭代，得到 AMS 实验员点赞 <br> &nbsp &nbsp 
-            · 设计并且落地 PCG 流量和 AMS 广告侧流量的联合实验，上线 2 个月现在已经平稳落地<font color=#FF000><strong> 470+ </strong></font>实验。落地 WX 流量和 AMS 联合实验，目前搜一搜业务已经跑通  <br>  &nbsp &nbsp
+            · 作为 owner 整体负责 AMS 业务的产品和运营工作，包含业务接入实验、用户问题处理，并根据用户反馈进行平台功能设计与迭代，得到 AMS 实验员多次点赞 <br> &nbsp &nbsp 
+            · 设计落地 PCG 流量 * AMS 广告的联合实验，上线 2 个月现在已经平稳落地<font color=#FF000><strong> 470+ </strong></font>实验。落地 WX 流量 *  AMS 广告联合实验，目前搜一搜业务已经跑通  <br>  &nbsp &nbsp
             <font size=4><strong> 2) 实验管理模块</strong></font>  <br>  &nbsp &nbsp 
-            · 负责实验平台的实验管理模块，收集用户反馈，结合满意度问卷，接手一个月内快速 fix 线上 100+问题。通过建立用户群，周报，月报等形式搭建沟通渠道，将满意度从 <font color=#FF000><strong>3.5 提升到 3.97</strong></font>（满分 5）<br>  &nbsp &nbsp             
+            · 负责实验平台的实验管理模块，收集用户反馈，结合满意度问卷，接手一个月内快速 fix 线上 100+问题。通过建立用户群，周报，月报等形式搭建双向沟通渠道，将满意度从 <font color=#FF000><strong>3.5 提升到 3.97</strong></font>（满分 5）<br>  &nbsp &nbsp             
             <font size=4><strong> 3) Data Warehouse Native 的实验平台能力建设</strong></font>  <br>  &nbsp &nbsp
-            · 实验平台为了支持 IEGG 海外游戏业务，如王者荣耀海外版 & 其他游戏工作室，作为 Warehouse Native 实验平台的整体负责人，基于 Google cloud 快速构建基于 BigQuery 数仓的业务接入产品能力，数据不敏感的业务可以导入数据，数据敏感用户可以基于用户数仓使用实验能力。未来可快速扩展 Snowflake，DataBricks。目前王者荣耀海外版已经接入，海外 3+ 工作室正在接入使用中 <br>  &nbsp &nbsp
+            · 实验平台为了支持 IEGG 海外游戏业务，如王者荣耀海外版 & 其他游戏工作室，需要出海。作为 Warehouse Native 实验平台的整体负责人，基于 Google cloud 快速构建基于 BigQuery 数仓的业务接入产品能力，数据不敏感的业务可以导入数据，数据敏感用户可以基于用户数仓使用实验能力。未来可快速扩展 Snowflake，DataBricks。目前王者荣耀海外版已经接入，海外 3+ 工作室正在接入使用中 <br>  &nbsp &nbsp
             <br>  &nbsp &nbsp
   - title: <font face="华文细黑粗体">腾讯 - 后台开发 & 数据工程</font>
     sub: <font face="楷体">PCG大数据平台部</font>
