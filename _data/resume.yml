@@ -125,33 +125,16 @@ main: #简历主要内容，
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠) 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
     detail: <font face="等线"><font size=4><strong>项目简介：作为数据处理平台离线模块负责人，支持 10+ sources，10+ sinks 接入，2w+ 数据处理链路平稳运行</strong></font></font> <br>  &nbsp &nbsp
-            <br>  &nbsp &nbsp
-            <font face="等线"><font size=3><strong> 1) 离线链路模块建设</strong></font> <br>  &nbsp &nbsp
+            <font face="等线"><font size=4><strong> 1) 离线链路模块建设</strong></font> <br>  &nbsp &nbsp
             · 通过数据挖掘生产全域用户画像标签，如用户基础画像、兴趣画像；在司内广泛使用，在同业内达到领先水平。持续优化标签生产逻辑，<font color=#FF000><strong>新版本基础画像准确率提升10%</strong></font> <br> &nbsp &nbsp 
             · 搭建并维护用户画像数据生产链路，保证数据一致性、准确性和及时性；负责画像服务的推广应用，对接上下游业务方30+，<font color=#FF000><strong>取得从0到200亿+/天服务调用量的成绩</strong></font>  <br>  &nbsp &nbsp 
-            · <strong>「难点」：</strong>保证数据合规、持续对标签生产逻辑进行优化、确保数据质量与一致性、技术框架的管理和优化 <br>  &nbsp &nbsp
-            · <strong>「措施」：</strong>与法务紧密合作、定期评估标签准确率和优化算法、建立数据校验与异常检测机制、升级spark高效利用资源 <br>  &nbsp &nbsp
-            <br>  &nbsp &nbsp
-            <font size=3><strong> 2) Adhoc 模块</strong></font>  <br>  &nbsp &nbsp 
+            <font size=4><strong> 2) Adhoc 模块</strong></font>  <br>  &nbsp &nbsp 
             · 建立腾讯新闻业务画像数据指标体系，<font color=#FF000><strong>覆盖业务300+画像标签</strong></font>，完成画像覆盖率、准确率等关键指标的报表体系建设；与推荐团队密切合作，通过清晰的数据可视化，帮助团队决策：如特征上下线与优化方案 <br>  &nbsp &nbsp 
             · 设计问卷开展用户兴趣画像研究，对回收样本进行数据清洗与信度分析；通过数据洞察提供改进用户兴趣画像标签的有效策略，<font color=#FF000><strong>相关策略上线后兴趣画像标签准确率提升13%</strong></font> <br>  &nbsp &nbsp 
-            · <strong>「难点」：</strong>确立指标体系、数据安全与隐私保护、确保问卷设计和样本的有效性、策略实施和效果评估方法 <br>  &nbsp &nbsp
-            · <strong>「措施」：</strong>深入了解业务需求，定期回顾和调整指标体系；问卷经过严谨的法务评估流程，添加用户隐私协议；在问卷中设置相关校验问题，提高数据可信度；进行用户深度调研，识别具体问题并转化成可落地的优化建议 <br>  &nbsp &nbsp
-            <br>  &nbsp &nbsp
-            <font size=3><strong> 3)承担平台部分运营服务工作</strong></font>  <br>  &nbsp &nbsp
+            <font size=4><strong> 3)承担平台部分运营服务工作</strong></font>  <br>  &nbsp &nbsp
             · 实现画像质量检测流程数字化，开发自动化画像测评程序，实现问卷自动生成与结果回收，并产出画像准确率分析报告；项目耗时从1个月+降低到3日内完成，<font color=#FF000><strong>人力投入效率提升90% </strong></font> <br>  &nbsp &nbsp
             · 重构并维护标签字典表产出链路，将存储从Mysql升级到Elasticsearch，支持百万级字典查询，<font color=#FF000><strong>实现查询性能100倍提升</strong></font> <br>  &nbsp &nbsp
-            · <strong>「难点」：</strong>评测流程的用户故事地图的构建、自动化程序的设计与开发、系统重构的复杂性、技术选型与升级 <br>  &nbsp &nbsp
-            · <strong>「措施」：</strong>换位思考，了解用户使用卡点与顾虑；善用司内工具，敏捷开发保证程序上线；梳理标签字典链路，设计迁移策略保证不影响线上服务；与多方沟通确定技术优缺点，以适应业务发展情况 <br>  &nbsp &nbsp
             <br>  &nbsp &nbsp
-            <font size=3><strong> 4) 平台 NPS 负责人</strong></font>  <br>  &nbsp &nbsp        
-            · 作为owner整体负责画像的运营和数据分析工作，包含业务接入推广、用户反馈处理、badcase分析，对业务画像应用过程中的问题进行原因分析与修复，根据用户反馈进行平台功能设计与迭代 <br>  &nbsp &nbsp
-            · 沉淀画像平台使用指引、画像挖掘说明、能力介绍等，<font color=#FF000><strong>累计梳理文档50+篇，访问量5,0000+，访问用户数10,000+</strong></font>；向业务开展多次画像平台资产与功能介绍课程，累计参与人数1,000+，用户服务满意度前5% <br>  &nbsp &nbsp
-            · <strong>「难点」：</strong>服务的推广与应用、问题快速定位与分析、平台功能文档和知识管理、用户培训和教育 <br>  &nbsp &nbsp
-            · <strong>「措施」：</strong>建设文档中心减少使用障碍，提高易用程度；建立oncall机制，沉淀问题原因并在迭代中优化；用实际场景案例传递画像功能吸引用户；强服务意识+主动承担，争做解决问题的人，拓宽需求的边界 </font><br>  &nbsp &nbsp
-            <br>  &nbsp &nbsp
-            <font face="等线"><font size=3><strong>项目收益：负责PCG画像全链路应用，PCG基础画像、兴趣画像推广覆盖腾讯视频、新闻、社交线、信服线等12个PCG核心业务，日均画像服务调用量900亿+，画像平台周均活跃用户1000+。ID体系、人群画像、广告合作专项累积协助业务创收x亿元 </strong></font></font>
-
   # - title: 晨星资讯 - 数据分析 (实习)
   #   sub:  全球基金部门
   #   duration: "2018年6月 - 2018年8月"
