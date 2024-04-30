@@ -50,7 +50,7 @@ main: #简历主要内容，
   - title: <font face="华文细黑粗体">专业技能</font>
   
     detail:  <font face="等线">1) 具备大数据平台模块从 0-1 规划落地经验，如离线处理、离线调度、实验平台 Warehouse Native 能力建设、PCAD/WXAD 联合实验；</font> <br>  &nbsp &nbsp
-             <font face="等线">2) 具备数据产品和中后台能力，可以使用 SQL、Python，熟悉大数据组件如 Hadoop、Spark、Hive、Flink、Kafka 等，能与研发，测试高效沟通；</font> <br>  &nbsp &nbsp
+             <font face="等线">2) 具备数据产品和中后台能力，可以使用 SQL、Python，熟悉大数据组件如 Hadoop、Spark、Hive、Flink、Kafka 等，能与研发、测试高效沟通；</font> <br>  &nbsp &nbsp
              <font face="等线">3) 掌握数据产品常用数据技能，如埋点、上报、用户行为分析、指标体系、SQL 取数、看板搭建等；</font> <br>  &nbsp &nbsp
              <font face="等线">4) 具备良好项目管理和风险意识，积极主动，认真负责，保证项目平稳推进。</font> 
              #<font face="等线">1) 三年后台 & 数据工程经历，了解数据上报，ETL，数仓，数据可视化的全流程</font> <br>  &nbsp &nbsp
@@ -84,7 +84,7 @@ main: #简历主要内容，
     - <font face="黑体">AMS广告实验</font>
     - <font face="黑体">微信联合实验</font>
     - <font face="黑体">实验出海</font>
-    - <font face="黑体">整体运营，服务</font>
+    - <font face="黑体">运营</font>
     # - SQL/Python
     # - 数据可视化
     # - Hive, Spark, CI/CD, Git
