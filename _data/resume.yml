@@ -126,14 +126,14 @@ main: #简历主要内容，
     # summary: 职务或者工作总结(自动折叠) 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
     detail: <font face="等线"><font size=4><strong>项目简介：作为数据处理平台离线模块负责人，支持 10+ sources，10+ sinks 接入，2w+ 数据处理链路平稳运行</strong></font></font> <br>  &nbsp &nbsp
             <font face="等线"><font size=4><strong> 1) 离线链路模块建设</strong></font> <br>  &nbsp &nbsp
-            · 通过数据挖掘生产全域用户画像标签，如用户基础画像、兴趣画像；在司内广泛使用，在同业内达到领先水平。持续优化标签生产逻辑，<font color=#FF000><strong>新版本基础画像准确率提升10%</strong></font> <br> &nbsp &nbsp 
-            · 搭建并维护用户画像数据生产链路，保证数据一致性、准确性和及时性；负责画像服务的推广应用，对接上下游业务方30+，<font color=#FF000><strong>取得从0到200亿+/天服务调用量的成绩</strong></font>  <br>  &nbsp &nbsp 
-            <font size=4><strong> 2) Adhoc 模块</strong></font>  <br>  &nbsp &nbsp 
-            · 建立腾讯新闻业务画像数据指标体系，<font color=#FF000><strong>覆盖业务300+画像标签</strong></font>，完成画像覆盖率、准确率等关键指标的报表体系建设；与推荐团队密切合作，通过清晰的数据可视化，帮助团队决策：如特征上下线与优化方案 <br>  &nbsp &nbsp 
-            · 设计问卷开展用户兴趣画像研究，对回收样本进行数据清洗与信度分析；通过数据洞察提供改进用户兴趣画像标签的有效策略，<font color=#FF000><strong>相关策略上线后兴趣画像标签准确率提升13%</strong></font> <br>  &nbsp &nbsp 
+            · 从 0 到 1 主导建设平台上的离线开发模块（ SQL 模式和数据集成模式），支持业务有tab，星盘，手Q，腾讯视频等。平台每天新增离线开发任务100+，稳定运行链路3.5w+，是平主要用户流量来源。 <br> &nbsp &nbsp 
+            · 能力项：支持读取 mysql，pgsql，thive，社区hive，支持写入impala，clickhouse，thive，Icebreg。 <br> &nbsp &nbsp 
+            · 易用性：支持跨数据源查询，支持用户调试 SQL 正确性，支持写入条数监控，任务关键指标上报等。 <br> &nbsp &nbsp 
+            <font size=4><strong> 2)离线 DAG</strong></font>  <br>  &nbsp &nbsp 
+            · 参与建设数据处理平台上面的离线 DAG 编排，主导 ADHOC 能力建设，目前 DAG 支持 DQC，SuperSQl，pysql，pyspark，Http，SparkJar 等节点 <br>  &nbsp &nbsp 
             <font size=4><strong> 3)承担平台部分运营服务工作</strong></font>  <br>  &nbsp &nbsp
-            · 实现画像质量检测流程数字化，开发自动化画像测评程序，实现问卷自动生成与结果回收，并产出画像准确率分析报告；项目耗时从1个月+降低到3日内完成，<font color=#FF000><strong>人力投入效率提升90% </strong></font> <br>  &nbsp &nbsp
-            · 重构并维护标签字典表产出链路，将存储从Mysql升级到Elasticsearch，支持百万级字典查询，<font color=#FF000><strong>实现查询性能100倍提升</strong></font> <br>  &nbsp &nbsp
+            · 策划并且举办《大数据前沿及批流一体的Flink技术揭秘 | 原力技术沙龙》直播观看人数<font color=#FF000><strong> 1000+ </strong></font>，持续在线<font color=#FF000><strong> 500+ </strong></font>  <br>  &nbsp &nbsp
+            · 发表 KM 文字 <a href="https://km.woa.com/articles/show/567781">万字长文带你了解大数据的前世今生</a> 获得收藏 <font color=#FF000><strong> 100+ </strong></font> <br>  &nbsp &nbsp
             <br>  &nbsp &nbsp
   # - title: 晨星资讯 - 数据分析 (实习)
   #   sub:  全球基金部门
