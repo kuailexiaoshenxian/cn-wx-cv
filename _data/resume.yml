@@ -100,20 +100,17 @@ main: #简历主要内容，
     detail: <font face="等线"><font size=4><strong>项目简介：作为实验平台产品策划，打造科学，准确的实验决策平台，并建设海外版本支持游戏工作室</strong></font></font> <br>  &nbsp &nbsp
             <font face="等线"><font size=3><strong> 1) AMS 广告实验</strong></font> <br>  &nbsp &nbsp
             · 作为 owner 整体负责 AMS 业务的产品和运营工作，包含业务接入实验、用户问题处理，并根据用户反馈进行平台功能设计与迭代，得到 AMS 实验员点赞 <br> &nbsp &nbsp 
-            · 设计并且落地 pcg 流量和 AMS 广告侧流量的联合实验，上线 2 个月现在已经平稳落地<font color=#FF000><strong> 470+ </strong></font>实验。落地 wx 流量和 AMS 联合实验，目前搜一搜业务已经跑通  <br>  &nbsp &nbsp 
-            <br>
+            · 设计并且落地 pcg 流量和 AMS 广告侧流量的联合实验，上线 2 个月现在已经平稳落地<font color=#FF000><strong> 470+ </strong></font>实验。落地 wx 流量和 AMS 联合实验，目前搜一搜业务已经跑通  <br>  &nbsp &nbsp
             <font size=3><strong> 2) 实验管理模块</strong></font>  <br>  &nbsp &nbsp 
             · 建立腾讯新闻业务画像数据指标体系，<font color=#FF000><strong>覆盖业务300+画像标签</strong></font>，完成画像覆盖率、准确率等关键指标的报表体系建设；与推荐团队密切合作，通过清晰的数据可视化，帮助团队决策：如特征上下线与优化方案 <br>  &nbsp &nbsp 
             · 设计问卷开展用户兴趣画像研究，对回收样本进行数据清洗与信度分析；通过数据洞察提供改进用户兴趣画像标签的有效策略，<font color=#FF000><strong>相关策略上线后兴趣画像标签准确率提升13%</strong></font> <br>  &nbsp &nbsp 
             · <strong>「难点」：</strong>确立指标体系、数据安全与隐私保护、确保问卷设计和样本的有效性、策略实施和效果评估方法 <br>  &nbsp &nbsp
             · <strong>「措施」：</strong>深入了解业务需求，定期回顾和调整指标体系；问卷经过严谨的法务评估流程，添加用户隐私协议；在问卷中设置相关校验问题，提高数据可信度；进行用户深度调研，识别具体问题并转化成可落地的优化建议 <br>  &nbsp &nbsp
-            <br> 
             <font size=3><strong> 3)data warehouse native 的实验平台能力建设</strong></font>  <br>  &nbsp &nbsp
             · 实现画像质量检测流程数字化，开发自动化画像测评程序，实现问卷自动生成与结果回收，并产出画像准确率分析报告；项目耗时从1个月+降低到3日内完成，<font color=#FF000><strong>人力投入效率提升90% </strong></font> <br>  &nbsp &nbsp
             · 重构并维护标签字典表产出链路，将存储从Mysql升级到Elasticsearch，支持百万级字典查询，<font color=#FF000><strong>实现查询性能100倍提升</strong></font> <br>  &nbsp &nbsp
             · <strong>「难点」：</strong>评测流程的用户故事地图的构建、自动化程序的设计与开发、系统重构的复杂性、技术选型与升级 <br>  &nbsp &nbsp
             · <strong>「措施」：</strong>换位思考，了解用户使用卡点与顾虑；善用司内工具，敏捷开发保证程序上线；梳理标签字典链路，设计迁移策略保证不影响线上服务；与多方沟通确定技术优缺点，以适应业务发展情况 <br>  &nbsp &nbsp
-            <br>
             <font size=3><strong> 4) 平台 NPS 负责人</strong></font>  <br>  &nbsp &nbsp        
             · 作为owner整体负责画像的运营和数据分析工作，包含业务接入推广、用户反馈处理、badcase分析，对业务画像应用过程中的问题进行原因分析与修复，根据用户反馈进行平台功能设计与迭代 <br>  &nbsp &nbsp
             · 沉淀画像平台使用指引、画像挖掘说明、能力介绍等，<font color=#FF000><strong>累计梳理文档50+篇，访问量5,0000+，访问用户数10,000+</strong></font>；向业务开展多次画像平台资产与功能介绍课程，累计参与人数1,000+，用户服务满意度前5% <br>  &nbsp &nbsp
