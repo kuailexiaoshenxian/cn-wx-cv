@@ -50,7 +50,7 @@ main: #简历主要内容，
     # - 数据可视化：Power BI, Tableau
     #- <font face="等线">大数据：HDFS、Hive、MySQL、Spark、Flink、OLAP (Impala、Kudu、ClickHouse)</font>
   - title: <font face="华文细黑粗体">专业技能</font>
-    detail:  <font face="等线"><strong>1) 大数据平台建设：</strong>&nbsp成功规划并实施大数据平台模块，涵盖离线处理、调度系统，以及实验平台的Warehouse Native能力构建、PCAD/WXAD 联合实验；</font> <br>  &nbsp &nbsp
+    detail:  <font face="等线"><strong>1) 大数据平台建设：</strong>&nbsp成功规划并实施大数据平台模块，包括离线处理、调度系统，以及实验平台的 Warehouse Native 能力构建、PCAD/WXAD 联合实验；</font> <br>  &nbsp &nbsp
              <font face="等线"><strong>2) 技术栈掌握：</strong>&nbsp 具备数据产品和中后台能力，可以使用 SQL、Python，熟悉大数据组件如 Hadoop、Spark、Hive、Flink、Kafka 等，能与研发、测试高效沟通；</font> <br>  &nbsp &nbsp
              <font face="等线"><strong>3) 数据产品开发：</strong>&nbsp掌握数据产品常用数据技能，如埋点、上报、用户行为分析、指标体系、SQL 取数、看板搭建等；</font> <br>  &nbsp &nbsp
              <font face="等线"><strong>4) 项目管理：</strong>&nbsp 拥有出色的项目管理能力，能够识别和管理项目风险，确保项目按计划顺利进行。</font> 
@@ -107,7 +107,8 @@ main: #简历主要内容，
             · 负责实验平台的实验管理模块，收集用户反馈，结合满意度问卷，接手一个月内快速 fix 线上 100+问题。通过建立用户群，周报，月报等形式搭建双向沟通渠道，将满意度从 <font color=#FF7F00><strong>3.5 提升到 3.97</strong></font> <br>  &nbsp &nbsp             
             <br>
             <font face="等线"><font size=4><strong> &nbsp 3) Data Warehouse Native 的实验平台能力建设</strong></font>  <br>  &nbsp &nbsp
-            · 实验平台为了支持 IEGG 海外游戏业务，如王者荣耀海外版 & 其他游戏工作室，需要出海。作为 Warehouse Native 实验平台的整体负责人，基于 Google cloud 快速构建基于 BigQuery 数仓的业务接入产品能力，数据不敏感的业务可以导入数据，数据敏感用户可以基于用户数仓使用实验能力。未来可快速扩展 Snowflake、DataBricks。目前王者荣耀海外版已经接入，海外 3+ 工作室正在接入使用中， <a href="https://doc.weixin.qq.com/doc/w3_AIcAegY2ACku0oef0AYSiKxJtdRNO?scode=AJEAIQdfAAouU3ZBzFAIcAegY2ACk">简单介绍 Warehouse Native 实验平台</a>
+            · 实验平台为了支持 IEGG 海外游戏业务，如王者荣耀海外版 & 其他游戏工作室，需要出海。作为 Warehouse Native 实验平台的整体负责人，基于 Google Cloud 快速构建基于 BigQuery 数仓的业务接入产品能力，数据不敏感的业务可以导入数据，数据敏感用户可以基于用户数仓使用实验能力。未来可快速扩展 Snowflake、DataBricks。
+            · 目前王者荣耀海外版已经接入，海外 3+ 工作室正在接入使用中， <a href="https://doc.weixin.qq.com/doc/w3_AIcAegY2ACku0oef0AYSiKxJtdRNO"> <strong> 简单介绍 Warehouse Native 实验平台 </strong> </a>
             <br> 
   - title: <font face="华文细黑粗体">腾讯 - 后台开发 & 数据工程</font>
     sub: <font face="楷体">PCG大数据平台部</font>
@@ -115,7 +116,7 @@ main: #简历主要内容，
     tags:
     - <font face="黑体">离线链路构建</font>
     - <font face="黑体">Adhoc 模块建设</font>
-    - <font face="黑体">平台整体运营，推广，服务</font>
+    - <font face="黑体">平台整体运营、推广、服务</font>
     # - SQL/Python
     # - 数据可视化
     # - Hive, Spark, CI/CD, Git
@@ -131,15 +132,16 @@ main: #简历主要内容，
             <br>
             <font face="等线"><font size=4><strong> &nbsp 1) 离线链路模块建设</strong></font> <br>  &nbsp &nbsp
             · 从 0 到 1 主导建设平台上的离线开发模块（ SQL 模式和数据集成模式），支持业务有 TAB，信服线，星盘，手Q，腾讯视频等。平台每天新增离线开发任务<font color=#FF7F00><strong> 100+ </strong></font>，稳定运行链路<font color=#FF7F00><strong> 3.5w+ </strong></font>，大大降低了用户学习使用 US 的门槛，是平台主要用户流量来源<br> &nbsp &nbsp 
-            · 支持读取 MySQL、PostgreSQL、Thive、社区 hive，支持写入Impala、Clickhouse、Thive、Icebreg<br> &nbsp &nbsp 
+            · 支持读取 MySQL、PostgreSQL、Thive、社区 Hive，支持写入 Impala、Clickhouse、Thive、Icebreg<br> &nbsp &nbsp 
             · 易用性：支持跨数据源查询、支持用户调试 SQL 正确性、支持写入条数监控，任务关键指标上报等<br> &nbsp &nbsp 
             <br>
             <font face="等线"><font size=4><strong> &nbsp 2) 离线 DAG</strong></font>  <br>  &nbsp &nbsp 
-            · 参与建设数据处理平台上面的离线 DAG 编排，主导 ADHOC 能力建设，目前 DAG 支持 DQC、SuperSQl、Pysql、Pyspark、Http、SparkJar 等节点 <br>  &nbsp &nbsp 
+            · 参与建设数据处理平台上面的离线 DAG 编排，主导 ADHOC 能力建设，目前 DAG 支持 DQC、SuperSQl、PySQL、PySpark、HTTP、SparkJar 等节点 <br>  &nbsp &nbsp 
             <br>
             <font face="等线"><font size=4><strong> &nbsp 3) 承担平台运营工作</strong></font>  <br>  &nbsp &nbsp
             · 策划并且举办《大数据前沿及批流一体的Flink技术揭秘 | 原力技术沙龙》直播观看人数<font color=#FF7F00><strong> 1000+ </strong></font>，持续在线<font color=#FF7F00><strong> 500+ </strong></font> <br>  &nbsp &nbsp
             · 发表 KM 文章 <a href="https://km.woa.com/articles/show/567781">万字长文带你了解大数据的前世今生</a> 获得收藏 <font color=#FF7F00><strong> 100+ </strong></font>
+            · 录制平台一系列新人指引视频 <a href="https://km.woa.com/articles/show/456481">灯塔 （回答新同学的小视频）01 </a> 播放 <font color=#FF7F00><strong> 1w+ </strong></font>，收到了许多好评
   #   sub:  全球基金部门
   #   duration: "2018年6月 - 2018年8月"
   #   tags:
