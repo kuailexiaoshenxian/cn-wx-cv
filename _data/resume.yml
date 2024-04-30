@@ -97,8 +97,7 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠) 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
-    detail: <font face="等线"><font size=3><strong>项目简介：作为实验平台产品策划，打造科学，准确的实验决策平台，并建设海外版本支持游戏工作室</strong></font></font> <br>  &nbsp &nbsp
-            <br>  &nbsp &nbsp
+    detail: <font face="等线"><font size=4><strong>项目简介：作为实验平台产品策划，打造科学，准确的实验决策平台，并建设海外版本支持游戏工作室</strong></font></font> <br>  &nbsp &nbsp
             <font face="等线"><font size=3><strong> 1) AMS 广告实验</strong></font> <br>  &nbsp &nbsp
             · 作为 owner 整体负责 AMS 业务的产品和运营工作，包含业务接入实验、用户问题处理，并根据用户反馈进行平台功能设计与迭代 <br> &nbsp &nbsp 
             · 设计并且落地 pcg 流量和 AMS 广告侧流量的联合实验，上线 2 个月现在已经平稳落地 470+ 实验。落地 wx 流量和 AMS 联合实验，目前搜一搜业务已经跑通  <br>  &nbsp &nbsp 
@@ -141,7 +140,7 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠) 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
-    detail: <font face="等线"><font size=3><strong>项目简介：作为数据处理平台离线模块负责人，支持 10+ sources，10+ sinks 接入，2w+ 数据处理链路平稳运行</strong></font></font> <br>  &nbsp &nbsp
+    detail: <font face="等线"><font size=4><strong>项目简介：作为数据处理平台离线模块负责人，支持 10+ sources，10+ sinks 接入，2w+ 数据处理链路平稳运行</strong></font></font> <br>  &nbsp &nbsp
             <br>  &nbsp &nbsp
             <font face="等线"><font size=3><strong> 1) 离线链路模块建设</strong></font> <br>  &nbsp &nbsp
             · 通过数据挖掘生产全域用户画像标签，如用户基础画像、兴趣画像；在司内广泛使用，在同业内达到领先水平。持续优化标签生产逻辑，<font color=#FF000><strong>新版本基础画像准确率提升10%</strong></font> <br> &nbsp &nbsp 
