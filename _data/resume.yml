@@ -107,7 +107,7 @@ main: #简历主要内容，
             · 负责实验平台的实验管理模块，收集用户反馈，结合满意度问卷，接手一个月内快速 fix 线上 100+问题。通过建立用户群，周报，月报等形式搭建双向沟通渠道，将满意度从 <font color=#FF7F00><strong>3.5 提升到 3.97</strong></font> <br>  &nbsp &nbsp             
             <br>
             <font face="等线"><font size=4><strong> &nbsp 3) Data Warehouse Native 的实验平台能力建设</strong></font>  <br>  &nbsp &nbsp
-            · 实验平台为了支持 IEGG 海外游戏业务，如王者荣耀海外版 & 其他游戏工作室，需要出海。作为 Warehouse Native 实验平台的整体负责人，基于 Google Cloud 快速构建基于 BigQuery 数仓的业务接入产品能力，数据不敏感的业务可以导入数据，数据敏感用户可以基于用户数仓使用实验能力。未来可快速扩展 Snowflake、DataBricks。
+            · 实验平台为了支持 IEGG 海外游戏业务，如王者荣耀海外版 & 其他游戏工作室，需要出海。作为 Warehouse Native 实验平台的整体负责人，基于 Google Cloud 快速构建基于 BigQuery 数仓的业务接入产品能力，数据不敏感的业务可以导入数据，数据敏感用户可以基于用户数仓使用实验能力。未来可快速扩展 Snowflake、DataBricks。<br> 
             · 目前王者荣耀海外版已经接入，海外 3+ 工作室正在接入使用中， <a href="https://doc.weixin.qq.com/doc/w3_AIcAegY2ACku0oef0AYSiKxJtdRNO"> <strong> 简单介绍 Warehouse Native 实验平台 </strong> </a>
             <br> 
   - title: <font face="华文细黑粗体">腾讯 - 后台开发 & 数据工程</font>
@@ -140,8 +140,8 @@ main: #简历主要内容，
             <br>
             <font face="等线"><font size=4><strong> &nbsp 3) 承担平台运营工作</strong></font>  <br>  &nbsp &nbsp
             · 策划并且举办《大数据前沿及批流一体的Flink技术揭秘 | 原力技术沙龙》直播观看人数<font color=#FF7F00><strong> 1000+ </strong></font>，持续在线<font color=#FF7F00><strong> 500+ </strong></font> <br>  &nbsp &nbsp
-            · 发表 KM 文章 <a href="https://km.woa.com/articles/show/567781">万字长文带你了解大数据的前世今生</a> 获得收藏 <font color=#FF7F00><strong> 100+ </strong></font>
-            · 录制平台一系列新人指引视频 <a href="https://km.woa.com/articles/show/456481">灯塔 （回答新同学的小视频）01 </a> 播放 <font color=#FF7F00><strong> 1w+ </strong></font>，收到了许多好评
+            · 发表 KM 文章 <a href="https://km.woa.com/articles/show/567781">万字长文带你了解大数据的前世今生</a> 获得收藏 <font color=#FF7F00><strong> 100+ </strong></font>  <br>  &nbsp &nbsp
+            · 录制平台新人指引视频 <a href="https://km.woa.com/articles/show/456481">灯塔-回答新同学的小视频</a> 播放 <font color=#FF7F00><strong> 1w+ </strong></font>，收到了许多好评
   #   sub:  全球基金部门
   #   duration: "2018年6月 - 2018年8月"
   #   tags:
