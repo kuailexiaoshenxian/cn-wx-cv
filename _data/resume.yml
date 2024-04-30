@@ -98,18 +98,14 @@ main: #简历主要内容，
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠) 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
     detail: <font face="等线"><font size=4><strong>项目简介：作为实验平台产品策划，打造科学，准确的实验决策平台，并建设海外版本支持游戏工作室</strong></font></font> <br>  &nbsp &nbsp
-            <font face="等线"><font size=3><strong> 1) AMS 广告实验</strong></font> <br>  &nbsp &nbsp
+            <font face="等线"><font size=4><strong> 1) AMS 广告实验</strong></font> <br>  &nbsp &nbsp
             · 作为 owner 整体负责 AMS 业务的产品和运营工作，包含业务接入实验、用户问题处理，并根据用户反馈进行平台功能设计与迭代，得到 AMS 实验员点赞 <br> &nbsp &nbsp 
             · 设计并且落地 pcg 流量和 AMS 广告侧流量的联合实验，上线 2 个月现在已经平稳落地<font color=#FF000><strong> 470+ </strong></font>实验。落地 wx 流量和 AMS 联合实验，目前搜一搜业务已经跑通  <br>  &nbsp &nbsp
-            <font size=3><strong> 2) 实验管理模块</strong></font>  <br>  &nbsp &nbsp 
+            <font size=4><strong> 2) 实验管理模块</strong></font>  <br>  &nbsp &nbsp 
             · 负责实验平台的实验管理模块，收集用户反馈，结合满意度问卷，接手一个月内快速 fix 线上 100+问题。通过建立用户群，周报，月报等形式搭建沟通渠道，将满意度从 <font color=#FF000><strong>3.5 提升到 3.97</strong></font>（满分 5）<br>  &nbsp &nbsp             
-            <font size=3><strong> 3)data warehouse native 的实验平台能力建设</strong></font>  <br>  &nbsp &nbsp
-            · 实验平台为了支持 IEGG 海外游戏业务，如王者荣耀海外版 & 其他游戏工作室，作为 warehouse native 实验平台的整体负责人，基于 Google cloud 快速构建基于 BigQuery 数仓的两种业务接入方式，对于数据不敏感的业务目前支持业务导入实验数据，数据敏感用户可以基于用户数仓构建实验能力。未来可快速扩展 Snowflake，DataBricks。海外 3+ 工作室正在接入使用中 <br>  &nbsp &nbsp
-            ·  <br>  &nbsp &nbsp
-            <font size=3><strong> 4) 平台 NPS 负责人</strong></font>  <br>  &nbsp &nbsp        
-            · 作为owner整体负责画像的运营和数据分析工作，包含业务接入推广、用户反馈处理、badcase分析，对业务画像应用过程中的问题进行原因分析与修复，根据用户反馈进行平台功能设计与迭代 <br>  &nbsp &nbsp
-            · 沉淀画像平台使用指引、画像挖掘说明、能力介绍等，<font color=#FF000><strong>累计梳理文档50+篇，访问量5,0000+，访问用户数10,000+</strong></font>；向业务开展多次画像平台资产与功能介绍课程，累计参与人数1,000+，用户服务满意度前5% <br>  &nbsp &nbsp
-            <br>  &nbsp &nbsp    
+            <font size=4><strong> 3) Data Warehouse Native 的实验平台能力建设</strong></font>  <br>  &nbsp &nbsp
+            · 实验平台为了支持 IEGG 海外游戏业务，如王者荣耀海外版 & 其他游戏工作室，作为 Warehouse Native 实验平台的整体负责人，基于 Google cloud 快速构建基于 BigQuery 数仓的业务接入产品能力构建，对于数据不敏感的业务目前支持业务导入实验数据，数据敏感用户可以基于用户数仓构建实验能力。未来可快速扩展 Snowflake，DataBricks。目前王者荣耀海外版已经接入，海外 3+ 工作室正在接入使用中 <br>  &nbsp &nbsp
+            <br>  &nbsp &nbsp
   - title: <font face="华文细黑粗体">腾讯 - 后台开发 & 数据工程</font>
     sub: <font face="楷体">PCG大数据平台部</font>
     duration:  <font face="汉仪楷体">2020 年 6 月 - 2023 年 5 月</font>
