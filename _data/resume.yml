@@ -52,10 +52,12 @@ main: #简历主要内容，
     detail:  <font face="等线">1) 三年后台 & 数据工程经历，了解数据上报，ETL，数仓，数据可视化的全流程</font> <br>  &nbsp &nbsp
              <font face="等线">2) 一年产品经验，了解 AB test，之前负责 TAB FOR AMS 模块，现独立负责基于 Data Warehouse Native（eg,BigQuery，DataBricks）的实验平台出海 </font>
 
-             # 2年以上数据产品经理经验，具备数据平台和数据治理实践经验
-             # 熟练使用sql、python，熟悉大数据技术概念如hadoop、spark、hive、flink、mq、kafka等；
-             # 数据敏感，能独立发现、解决问题并进行后续优化；认真负责，积极主动，具备良好的项目管理能力和沟通协调能力
+             具备大数据平台模块从 0-1 规划落地经验，如离线处理，调度，实验平台 warehouse native 能力建设，PCAD & WXAD 联合实验；
+             具备数据产品和中后台能力，可以使用sql、python，熟悉大数据组件如hadoop、spark、hive、flink、kafka等，能与研发，测试高效沟通；
+             掌握数据产品常用数据技能，如埋点，上报，用户行为分析，指标体系，SQL 取数，看板搭建等；
+             具备良好项目管理和风险意识，保证项目平稳推进。
              
+  
              # 1. 了解各类数据建模方法，如分类/线性回归等，有针对画像场景进行有效数据挖掘并形成策略的项目经验 <br>  &nbsp &nbsp
              # 2. 掌握数据可视化能力，使用各类工具实现数据分析、报表系统搭建，如Tableau, PowerBI, Dash Plotly, Apache ECharts <br>  &nbsp &nbsp
              # 3. 工作认真负责、勇于担当、沟通和团队协作能力强；能力综合，有独立管理和运营项目的经验，通过数据洞察提供落地方案以支持团队决策
