@@ -46,11 +46,11 @@ main: #简历主要内容，
     - <font face="等线">编程语言：SQL Python Java </font>
     - <font face="等线">其他工具：Figma Xmind</font>
     # - 数据可视化：Power BI, Tableau
-    - <font face="等线">大数据：HDFS, Hive, Mysql, Spark, Flink, OLAP (Impala, Kudu, Clickhouse)</font>
+    - <font face="等线">大数据：HDFS、Hive、MySQL、Spark、Flink、OLAP (Impala、Kudu、ClickHouse)</font>
   - title: <font face="华文细黑粗体">专业技能</font>
   
-    detail:  <font face="等线">1) 具备大数据平台模块从 0-1 规划落地经验，如离线处理，调度，离线 DAG，实验平台 warehouse native 能力建设，PCAD/WXAD 联合实验；</font> <br>  &nbsp &nbsp
-             <font face="等线">2) 具备数据产品和中后台能力，可以使用 sql、python，熟悉大数据组件如 hadoop、spark、hive、flink、kafka 等，能与研发，测试高效沟通；</font> <br>  &nbsp &nbsp
+    detail:  <font face="等线">1) 具备大数据平台模块从 0-1 规划落地经验，如离线处理， 离线调度，实验平台 Warehouse Native 能力建设，PCAD/WXAD 联合实验；</font> <br>  &nbsp &nbsp
+             <font face="等线">2) 具备数据产品和中后台能力，可以使用 SQL、Python，熟悉大数据组件如 Hadoop、Spark、Hive、Flink、Kafka 等，能与研发，测试高效沟通；</font> <br>  &nbsp &nbsp
              <font face="等线">3) 掌握数据产品常用数据技能，如埋点，上报，用户行为分析，指标体系，SQL 取数，看板搭建等；</font> <br>  &nbsp &nbsp
              <font face="等线">4) 具备良好项目管理和风险意识，积极主动，认真负责，保证项目平稳推进。</font> <br>  &nbsp &nbsp
              <br>
