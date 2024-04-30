@@ -49,13 +49,15 @@ main: #简历主要内容，
     - <font face="等线">大数据：HDFS, Hive, Mysql, Spark, Flink, OLAP (Impala, Kudu, Clickhouse)</font>
   - title: <font face="华文细黑粗体">经验总结</font>
   
-    detail:  <font face="等线">1) 三年后台 & 数据工程经历，了解数据上报，ETL，数仓，数据可视化的全流程</font> <br>  &nbsp &nbsp
-             <font face="等线">2) 一年产品经验，了解 AB test，之前负责 TAB FOR AMS 模块，现独立负责基于 Data Warehouse Native（eg,BigQuery，DataBricks）的实验平台出海 </font>
+    detail:  <font face="等线">1) 具备大数据平台模块从 0-1 规划落地经验，如离线处理，调度，实验平台 warehouse native 能力建设，PCAD & WXAD 联合实验；</font> <br>  &nbsp &nbsp
+             <font face="等线">1) 具备数据产品和中后台能力，可以使用sql、python，熟悉大数据组件如hadoop、spark、hive、flink、kafka等，能与研发，测试高效沟通</font> <br>  &nbsp &nbsp
+             <font face="等线">1) 掌握数据产品常用数据技能，如埋点，上报，用户行为分析，指标体系，SQL 取数，看板搭建等；</font> <br>  &nbsp &nbsp
+             <font face="等线">1) 具备良好项目管理和风险意识，保证项目平稳推进。</font> <br>  &nbsp &nbsp
              <br>
-             具备大数据平台模块从 0-1 规划落地经验，如离线处理，调度，实验平台 warehouse native 能力建设，PCAD & WXAD 联合实验；<br>  &nbsp &nbsp
-             具备数据产品和中后台能力，可以使用sql、python，熟悉大数据组件如hadoop、spark、hive、flink、kafka等，能与研发，测试高效沟通；<br>  &nbsp &nbsp
-             掌握数据产品常用数据技能，如埋点，上报，用户行为分析，指标体系，SQL 取数，看板搭建等；<br>  &nbsp &nbsp
-             具备良好项目管理和风险意识，保证项目平稳推进。<br>  &nbsp &nbsp
+             #<font face="等线">1) 三年后台 & 数据工程经历，了解数据上报，ETL，数仓，数据可视化的全流程</font> <br>  &nbsp &nbsp
+             #<font face="等线">2) 一年产品经验，了解 AB test，之前负责 TAB FOR AMS 模块，现独立负责基于 Data Warehouse Native（eg,BigQuery，DataBricks）的实验平台出海 </font>
+             #<br>
+
              
   
              # 1. 了解各类数据建模方法，如分类/线性回归等，有针对画像场景进行有效数据挖掘并形成策略的项目经验 <br>  &nbsp &nbsp
