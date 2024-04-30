@@ -132,7 +132,7 @@ main: #简历主要内容，
             <br>
             <font face="等线"><font size=4><strong> &nbsp 1) 离线链路模块建设</strong></font> <br>  &nbsp &nbsp
             · 从 0 到 1 主导建设平台上的离线开发模块（ SQL 模式和数据集成模式），支持业务有 TAB，信服线，星盘，手Q，腾讯视频等。平台每天新增离线开发任务<font color=#FF7F00><strong> 100+ </strong></font>，稳定运行链路<font color=#FF7F00><strong> 3.5w+ </strong></font>，大大降低了用户学习使用 US 的门槛，是平台主要用户流量来源<br> &nbsp &nbsp 
-            · 支持读取 MySQL、PostgreSQL、Thive、社区 Hive，支持写入 Impala、Clickhouse、Thive、Icebreg<br> &nbsp &nbsp 
+            · 支持读取 MySQL、PostgreSQL、Thive、社区 Hive，支持写入 Impala、ClickHouse、Thive、Icebreg<br> &nbsp &nbsp 
             · 易用性：支持跨数据源查询、支持用户调试 SQL 正确性、支持写入条数监控，任务关键指标上报等<br> &nbsp &nbsp 
             <br>
             <font face="等线"><font size=4><strong> &nbsp 2) 离线 DAG</strong></font>  <br>  &nbsp &nbsp 
