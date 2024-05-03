@@ -131,9 +131,9 @@ main: #简历主要内容，
     detail: <font face="等线"><font size=4><strong>项目简介：作为数据处理平台离线模块负责人，支持 10+ Sources，10+ Sinks 接入， 人均 3w+ 数据链路平稳运行</strong></font></font> <br>  &nbsp &nbsp
             <br>
             <font face="等线"><font size=4><strong> &nbsp 1) 离线链路模块建设</strong></font> <br>  &nbsp &nbsp
-            · 从 0 到 1 主导建设平台上的离线开发模块（ SQL 模式和数据集成模式），支持业务有 TAB，信服线，星盘，手 Q，腾讯视频等。平台每天新增离线开发任务<font color=#FF7F00><strong> 100+ </strong></font>，稳定运行链路<font color=#FF7F00><strong> 3.5w+ </strong></font>，大大降低了用户学习使用 US 的门槛，是平台主要用户流量来源<br> &nbsp &nbsp 
-            · 支持读取 MySQL、PostgreSQL、Thive、社区 Hive，支持写入 Impala、ClickHouse、Thive、Icebreg<br> &nbsp &nbsp 
-            · 易用性：支持跨数据源查询、支持用户调试 SQL 正确性、支持写入条数监控，任务关键指标上报等<br> &nbsp &nbsp 
+            · 主导从0到1构建平台上的离线开发模块，包括 SQL 模式和数据集成模式，以支持 TAB、信服线、星盘、手Q、腾讯视频等关键业务，设计并实现了一个高效、稳定的任务处理链路，每天处理新增的<font color=#FF7F00><strong> 100+ </strong></font>离线开发任务，稳定运行 <font color=#FF7F00><strong> 3.5w+ </strong></font> 链路，通过简化用户界面和操作流程，显著降低了用户学习和使用US 的门槛，成为平台的主要用户流量来源 <br> &nbsp &nbsp 
+            · 实现了对 MySQL、PostgreSQL、Thive、社区Hive的读取支持，以及对Impala、ClickHouse、Thive（可能指Hive）、Iceberg的写入支持。<br> &nbsp &nbsp 
+            · 易用性：支持跨数据源查询、SQL调试、写入条数监控和任务关键指标上报，极大提升了用户体验，降低了使用门槛<br> &nbsp &nbsp 
             <br>
             <font face="等线"><font size=4><strong> &nbsp 2) 离线 DAG</strong></font>  <br>  &nbsp &nbsp 
             · 参与建设数据处理平台上面的离线 DAG 编排，主导 ADHOC 能力建设，目前 DAG 支持 DQC、SuperSQl、PySQL、PySpark、HTTP、SparkJar 等节点 <br>  &nbsp &nbsp 
