@@ -97,7 +97,7 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠) 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
-    detail: <font face="等线"><font size=4><strong>项目简介：作为 ABtest 平台产品策划，打造科学、准确的实验决策平台，并建设 ABtest 海外版本</strong></font></font> <br>  &nbsp &nbsp
+    detail: <font face="等线"><font size=4><strong>项目简介：作为 AB Test 平台产品策划，打造科学、准确的实验决策平台，并建设 AB Test 海外版本</strong></font></font> <br>  &nbsp &nbsp
             <br>
             <font face="等线"><font size=4><strong> &nbsp 1) AMS 广告实验</strong></font> <br>  &nbsp &nbsp
             · 作为 Owner 整体负责 AMS 业务的产品和运营工作，包含业务接入实验、用户问题处理、并根据用户反馈进行平台功能设计与迭代，成功落地<font color=#FF7F00><strong> 8000+ </strong></font> 个实验项目，显著提升了广告投放效果。 <br> &nbsp &nbsp 
