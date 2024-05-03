@@ -128,7 +128,7 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠) 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
-    detail: <font face="等线"><font size=4><strong>项目简介：作为数据处理平台离线模块负责人，支持 10+ Sources，10+ Sinks 接入， 人均 3w+ 数据链路平稳运行</strong></font></font> <br>  &nbsp &nbsp
+    detail: <font face="等线"><font size=4><strong>项目简介：作为数据处理平台离线模块负责人，支持 10+ Sources，10+ Sinks 接入， 日均 3w+ 数据链路平稳运行</strong></font></font> <br>  &nbsp &nbsp
             <br>
             <font face="等线"><font size=4><strong> &nbsp 1) 离线链路模块建设</strong></font> <br>  &nbsp &nbsp
             · 主导从0到1构建平台上的离线开发模块，包括 SQL 模式和数据集成模式，以支持 TAB、信服线、星盘、手Q、腾讯视频等关键业务，设计并实现了一个高效、稳定的任务处理链路，每天处理新增的<font color=#FF7F00><strong> 100+ </strong></font>离线开发任务，稳定运行 <font color=#FF7F00><strong> 3.5w+ </strong></font> 链路，通过简化用户界面和操作流程，显著降低了用户学习和使用US 的门槛，成为平台的主要用户流量来源 <br> &nbsp &nbsp 
