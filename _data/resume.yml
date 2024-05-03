@@ -52,7 +52,7 @@ main: #简历主要内容，
   - title: <font face="华文细黑粗体">专业技能</font>
     detail:  <font face="等线"><strong>1) 大数据平台建设：</strong>&nbsp成功规划并建设大数据平台模块，包括离线处理、调度系统、实验平台的 Warehouse Native 能力构建、跨团队 PCAD/WXAD 联合实验等；</font> <br>  &nbsp &nbsp
              <font face="等线"><strong>2) 技术栈掌握：</strong>&nbsp 具备数据产品和中后台能力，可以使用 SQL、Python，熟悉大数据组件如 Hadoop、Spark、Hive、Flink、Kafka 等，能与研发、测试高效沟通；</font> <br>  &nbsp &nbsp
-             <font face="等线"><strong>3) 数据产品开发：</strong>&nbsp掌握数据产品常用数据技能，如埋点、上报、用户行为分析、指标体系、SQL 取数、看板搭建等；</font> <br>  &nbsp &nbsp
+             <font face="等线"><strong>3) 数据产品开发：</strong>&nbsp掌握数据产品常用技能，如埋点、上报、用户行为分析、指标体系、SQL 取数、看板搭建等；</font> <br>  &nbsp &nbsp
              <font face="等线"><strong>4) 项目管理：</strong>&nbsp 拥有出色的项目管理能力，能够识别和管理项目风险，确保项目按计划顺利进行。</font> 
              #<font face="等线">1) 三年后台 & 数据工程经历，了解数据上报，ETL，数仓，数据可视化的全流程</font> <br>  &nbsp &nbsp
              #<font face="等线">2) 一年产品经验，了解 AB test，之前负责 TAB FOR AMS 模块，现独立负责基于 Data Warehouse Native（eg,BigQuery，DataBricks）的实验平台出海 </font>
