@@ -104,7 +104,7 @@ main: #简历主要内容，
             · 设计落地 PCG 流量 * AMS 广告的联合实验，上线 2 个月现在已经平稳落地<font color=#FF7F00><strong> 470+ </strong></font>实验。落地 WX 流量 *  AMS 广告联合实验，目前搜一搜业务已经跑通（视频号业务正在接入中）  <br>  &nbsp &nbsp
             <br>
             <font face="等线"><font size=4><strong> &nbsp 2) 实验管理模块</strong></font>  <br>  &nbsp &nbsp 
-            · 负责实验平台的实验管理模块，收集用户反馈，结合满意度问卷，接手一个月内快速 Fix 线上 100+问题。通过建立用户群，周报，月报等形式搭建双向沟通渠道，将满意度从 <font color=#FF7F00><strong>3.5 提升到 3.97</strong></font> <br>  &nbsp &nbsp             
+            · 负责实验平台的实验管理模块，收集用户反馈，结合满意度问卷，接手一个月内快速落地线上 <font color=#FF7F00><strong> 100+ </strong></font> 用户需求和优化点。通过建立用户群，周报，月报等形式搭建双向沟通渠道，将满意度从 <font color=#FF7F00><strong>3.5 提升到 3.97</strong></font> <br>  &nbsp &nbsp             
             <br>
             <font face="等线"><font size=4><strong> &nbsp 3) Data Warehouse Native 的实验平台能力建设</strong></font>  <br>  &nbsp &nbsp
             · 实验平台为了支持 IEGG 海外游戏业务，如王者荣耀海外版 & 其他游戏工作室，需要出海。作为 Warehouse Native 实验平台的整体负责人，基于 Google Cloud 快速构建基于 BigQuery 数仓的业务接入产品能力，数据不敏感的业务可以导入数据，数据敏感用户可以基于用户数仓使用实验能力。未来可快速扩展 Snowflake、DataBricks。<br> 
