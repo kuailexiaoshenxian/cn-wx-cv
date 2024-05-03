@@ -110,7 +110,7 @@ main: #简历主要内容，
             · 实验平台为了支持 IEGG 海外游戏业务，如王者荣耀海外版 & 其他游戏工作室，需要出海。作为 Warehouse Native 实验平台的整体负责人，基于 Google Cloud 平台，快速构建并优化了基于 BigQuery 数据仓库的业务接入产品能力，以满足不同业务需求，设计并上线了灵活的数据策略，支持非敏感数据业务直接导入数据，同时为数据敏感用户提供了基于用户数据仓库的实验能力，并规划未来产品扩展，包括集成 Snowflake 和 DataBricks 等数仓能力，以支持平台的可扩展性和业务增长。<br> &nbsp &nbsp
             · 目前王者荣耀海外版已经接入，海外 3+ 工作室正在接入使用中， <a href="https://doc.weixin.qq.com/doc/w3_AIcAegY2ACku0oef0AYSiKxJtdRNO"> <strong> 简单介绍 Warehouse Native 实验平台 </strong> </a>
             <br> 
-  - title: <font face="华文细黑粗体">腾讯 - 后台开发 & 数据工程</font>
+  - title: <font face="华文细黑粗体">腾讯 - 数据工程 & 后台开发 </font>
     sub: <font face="楷体">PCG大数据平台部</font>
     duration:  <font face="汉仪楷体">2020年6月 - 2023年5月</font>
     tags:
