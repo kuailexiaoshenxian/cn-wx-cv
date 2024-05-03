@@ -50,7 +50,7 @@ main: #简历主要内容，
     # - 数据可视化：Power BI, Tableau
     #- <font face="等线">大数据：HDFS、Hive、MySQL、Spark、Flink、OLAP (Impala、Kudu、ClickHouse)</font>
   - title: <font face="华文细黑粗体">专业技能</font>
-    detail:  <font face="等线"><strong>1) 大数据平台建设：</strong>&nbsp成功规划并实施大数据平台模块，包括离线处理、调度系统、实验平台的 Warehouse Native 能力构建、PCAD/WXAD 联合实验等；</font> <br>  &nbsp &nbsp
+    detail:  <font face="等线"><strong>1) 大数据平台建设：</strong>&nbsp成功规划并实施大数据平台模块，包括离线处理、调度系统、实验平台的 Warehouse Native 能力构建、跨团队 PCAD/WXAD 联合实验等；</font> <br>  &nbsp &nbsp
              <font face="等线"><strong>2) 技术栈掌握：</strong>&nbsp 具备数据产品和中后台能力，可以使用 SQL、Python，熟悉大数据组件如 Hadoop、Spark、Hive、Flink、Kafka 等，能与研发、测试高效沟通；</font> <br>  &nbsp &nbsp
              <font face="等线"><strong>3) 数据产品开发：</strong>&nbsp掌握数据产品常用数据技能，如埋点、上报、用户行为分析、指标体系、SQL 取数、看板搭建等；</font> <br>  &nbsp &nbsp
              <font face="等线"><strong>4) 项目管理：</strong>&nbsp 拥有出色的项目管理能力，能够识别和管理项目风险，确保项目按计划顺利进行。</font> 
@@ -101,7 +101,7 @@ main: #简历主要内容，
             <br>
             <font face="等线"><font size=4><strong> &nbsp 1) AMS 广告实验</strong></font> <br>  &nbsp &nbsp
             · 作为 Owner 整体负责 AMS 业务的产品和运营工作，包含业务接入实验、用户问题处理、并根据用户反馈进行平台功能设计与迭代，成功落地<font color=#FF7F00><strong> 8000+ </strong></font> 个实验项目，显著提升了广告投放效果。 <br> &nbsp &nbsp 
-            · 设计落地 PCG 流量 * AMS 广告的联合实验，上线 2 个月现在已经平稳落地<font color=#FF7F00><strong> 470+ </strong></font>实验，显著提升跨团队的实验迭代效率。落地 WX 流量 *  AMS 广告联合实验，目前搜一搜业务已经跑通（视频号业务正在接入中）  <br>  &nbsp &nbsp
+            · 设计落地 PCG 流量 * AMS 广告的联合实验，上线 2 个月现在已经平稳落地<font color=#FF7F00><strong> 470+ </strong></font>实验，显著提升 <font color=#FF7F00><strong>  跨团队</strong></font> 的实验迭代效率。落地 WX 流量 *  AMS 广告联合实验，目前搜一搜业务已经跑通（视频号业务正在接入中）  <br>  &nbsp &nbsp
             <br>
             <font face="等线"><font size=4><strong> &nbsp 2) 实验管理模块</strong></font>  <br>  &nbsp &nbsp 
             · 负责实验平台的实验管理模块，确保模块的高效运行和持续优化，收集和分析用户反馈，结合满意度问卷结果，深入理解用户需求，在接手一个月内，迅速响应并实施了<font color=#FF7F00><strong> 100+ </strong></font>项用户需求和优化点，显著提升了用户体验。建立并维护用户群，定期发布周报和月报，构建了有效的双向沟通渠道，通过持续的用户参与和反馈循环，成功将用户满意度从<font color=#FF7F00><strong> 3.5提升至3.97</strong></font> <br>  &nbsp &nbsp             
