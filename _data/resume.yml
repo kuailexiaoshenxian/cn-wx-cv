@@ -47,8 +47,9 @@ main: #简历主要内容，
   - title: <font face="华文细黑粗体"></font>
     items: #itmems 可以小块的方式显示
     - <font face="等线">一个有开发经验、懂运营的产品策划 </font>
+    - <font face="等线">积极主动、性格外向、擅长沟通、热爱学习 </font>
   - title: <font face="华文细黑粗体">外部评价</font>
-    detail:  <font face="等线"><strong> PCG UP 业务骨干培养计划部门2024年推荐学员、2022年 OUTSTANDING CONTRIBUTOR、PCG 数据课程优秀讲师（评分4.97）、A/B Test Oteam开源协同优秀个人奖、TAB实验中台联合项目团队 —— 腾讯卓越研发奖 </font> <br>  &nbsp &nbsp
+    detail:  <font face="等线"><strong> PCG 骨干培养计划部门推荐学员（2024）、2022年 OUTSTANDING CONTRIBUTOR、PCG 数据课程优秀讲师（评分4.97）、A/B Test Oteam开源协同优秀个人奖、TAB实验中台联合项目团队 —— 腾讯卓越研发奖 </font> &nbsp &nbsp
 
     # - 数据可视化：Power BI, Tableau
     #- <font face="等线">大数据：HDFS、Hive、MySQL、Spark、Flink、OLAP (Impala、Kudu、ClickHouse)</font>
@@ -79,12 +80,11 @@ main: #简历主要内容，
     sub: <font face="楷体">PCG大数据平台部</font>
     duration:  <font face="汉仪楷体">2023年6月 - 2024年8月</font>
     tags:
+    - <font face="黑体">小游戏平台</font>
+    - <font face="黑体">AMS 实验平台</font>
     - <font face="黑体">实验管理</font>
-    - <font face="黑体">小游戏运营平台</font>
-    - <font face="黑体">AMS广告实验</font>
     - <font face="黑体">微信联合实验</font>
-    - <font face="黑体">实验出海</font>
-    - <font face="黑体">运营</font>
+    - <font face="黑体">出海</font>
     # - SQL/Python
     # - 数据可视化
     # - Hive, Spark, CI/CD, Git
@@ -122,8 +122,7 @@ main: #简历主要内容，
     sub: <font face="楷体">PCG大数据平台部</font>
     duration:  <font face="汉仪楷体">2020年6月 - 2023年5月</font>
     tags:
-    - <font face="黑体">离线链路构建</font>
-    - <font face="黑体">Adhoc 模块建设</font>
+    - <font face="黑体">数据开发</font>
     - <font face="黑体">平台整体运营、推广、服务</font>
     # - SQL/Python
     # - 数据可视化
@@ -207,13 +206,11 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: <font face="华文细黑黑体">其他</font>
   content: #选择需要的格式
-  - title: <font face="华文细黑粗体">专业技能</font>
+  - title: <font face="华文细黑黑体">专业技能</font>
     detail:  <font face="等线"><strong>1) 平台建设：</strong>&nbsp 建设小游戏 ABtest 平台、建设数据开发模块、海外实验平台的 Warehouse Native 能力、跨团队 PCAD/WXAD 联合实验等；</font> <br>  &nbsp &nbsp
              <font face="等线"><strong>2) 技术栈掌握：</strong>&nbsp 具备数据产品和中后台能力，可以使用 SQL、Python，熟悉大数据组件如 Hadoop、Spark、Hive、Flink、Kafka 等，能与研发、测试高效沟通；</font> <br>  &nbsp &nbsp
              <font face="等线"><strong>3) 数据产品开发：</strong>&nbsp掌握数据产品常用技能，如埋点、上报、用户行为分析、指标体系、SQL 取数、看板搭建等；</font> <br>  &nbsp &nbsp
              <font face="等线"><strong>4) 项目管理：</strong>&nbsp 拥有出色的项目管理能力，能够识别和管理项目风险，确保项目按计划顺利进行。</font> 
-  - title: <font face="华文细黑粗体">其他</font>
-    text: <font face="等线">性格外向，积极主动，擅长沟通，可以使用英语口语交流，座右铭：有道无术 术尚可求 有术无道 止于术</font>
   
   #   items: #单行列表
   #   - 睡觉
