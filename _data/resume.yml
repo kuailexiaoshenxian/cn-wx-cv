@@ -94,10 +94,10 @@ main: #简历主要内容，
     # - 标签开发
     # - 指标监控
     # - 画像评测
-    # - 画像提升
+    # - 画像提升 
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠) 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
-    detail: <font face="等线"><font size=4><strong>项目简介：作为Tencent AB Test平台产品策划，建设小游戏运营平台 MVP 版本 、AB Test 海外版本</strong></font></font> <br>  &nbsp &nbsp
+    detail: <font face="等线"><font size=4><strong>项目简介：作为Tencent AB Test平台产品策划，建设小游戏运营平台 MVP 版本 <a href="https://abetterchoice.cn/"> <strong>可点击查看</strong> </a> 、AB Test 海外版本</strong></font></font> <br>  &nbsp &nbsp
            <br>
             <font face="等线"><font size=4><strong> &nbsp 1) AMS 广告实验</strong></font> <br>  &nbsp &nbsp
             · 作为 Owner 整体负责小游戏精细化运营平台产品规划及建设，包含 SDK 集成、官网、场景化 AB 实验、特性开关、远程配置、数据管理等模块。 <br> &nbsp &nbsp 
