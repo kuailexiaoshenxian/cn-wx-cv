@@ -109,7 +109,7 @@ main: #简历主要内容，
             · 作为 Owner 整体负责实验平台 AMS 业务的产品、运营工作，包含接入实验、用户问题处理、并根据用户反馈进行平台功能设计与迭代，成功落地<font color=#FF7F00><strong> 8000+ </strong></font> 个实验，显著提升了广告投放效果。 <br> &nbsp &nbsp 
             · 设计落地 PCG 流量 * AMS 广告的联合实验，上线 2 个月现在已经平稳落地<font color=#FF7F00><strong> 470+ </strong></font>实验，显著提升 <font color=#FF7F00><strong>  跨团队</strong></font> 的实验迭代效率。落地 WX 流量 *  AMS 广告联合实验，目前搜一搜业务已经跑通（视频号业务正在接入中）  <br>  &nbsp &nbsp
             <br>
-            <font face="等线"><font size=4><strong> &nbsp 3) Data Warehouse Native 的实验平台能力建设</strong></font>  <br>  &nbsp &nbsp
+            <font face="等线"><font size=4><strong> &nbsp 3) Data Warehouse Native 平台能力建设</strong></font>  <br>  &nbsp &nbsp
             · 实验平台为了支持 IEGG 海外游戏业务，如王者荣耀海外版 & 其他游戏工作室，需要出海。作为 Warehouse Native 实验平台的整体负责人，基于 Google Cloud 平台，快速构建并优化了基于 BigQuery 数据仓库的业务接入产品能力，以满足不同业务需求，设计并上线了灵活的数据策略，支持非敏感数据业务直接导入数据，同时为数据敏感用户提供了基于用户数据仓库的实验能力，并规划未来产品扩展，包括集成 Snowflake 和 DataBricks 等数仓能力，以支持平台的可扩展性和业务增长。<br> &nbsp &nbsp
             · 目前王者荣耀海外版已经接入，海外 3+ 工作室正在接入使用中， <a href="https://docs.abetterchoice.ai/guide/data/data-warehouse"> <strong> 简单介绍 Warehouse Native 实验平台 </strong> </a>
             <br> <br> 
