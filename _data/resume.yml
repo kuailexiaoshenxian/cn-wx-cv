@@ -46,14 +46,12 @@ main: #简历主要内容，
   content:
   - title: <font face="华文细黑粗体"></font>
     items: #itmems 可以小块的方式显示
-    - <font face="等线">一个有开发经验、懂一点运营的产品策划 </font>
+    - <font face="等线">一个有开发经验、懂运营的产品策划 </font>
+  - title: <font face="华文细黑粗体">外部评价</font>
+    detail:  <font face="等线"><strong> PCG UP 业务骨干培养计划部门2024年推荐学员、2022年 OUTSTANDING CONTRIBUTOR、PCG 数据课程优秀讲师（评分4.97）、A/B Test Oteam开源协同优秀个人奖、TAB实验中台联合项目团队 —— 腾讯卓越研发奖 </font> <br>  &nbsp &nbsp
+
     # - 数据可视化：Power BI, Tableau
     #- <font face="等线">大数据：HDFS、Hive、MySQL、Spark、Flink、OLAP (Impala、Kudu、ClickHouse)</font>
-  - title: <font face="华文细黑粗体">专业技能</font>
-    detail:  <font face="等线"><strong>1) 平台建设：</strong>&nbsp 建设小游戏 ABtest 平台、建设数据开发模块、海外实验平台的 Warehouse Native 能力、跨团队 PCAD/WXAD 联合实验等；</font> <br>  &nbsp &nbsp
-             <font face="等线"><strong>2) 技术栈掌握：</strong>&nbsp 具备数据产品和中后台能力，可以使用 SQL、Python，熟悉大数据组件如 Hadoop、Spark、Hive、Flink、Kafka 等，能与研发、测试高效沟通；</font> <br>  &nbsp &nbsp
-             <font face="等线"><strong>3) 数据产品开发：</strong>&nbsp掌握数据产品常用技能，如埋点、上报、用户行为分析、指标体系、SQL 取数、看板搭建等；</font> <br>  &nbsp &nbsp
-             <font face="等线"><strong>4) 项目管理：</strong>&nbsp 拥有出色的项目管理能力，能够识别和管理项目风险，确保项目按计划顺利进行。</font> 
              #<font face="等线">1) 三年后台 & 数据工程经历，了解数据上报，ETL，数仓，数据可视化的全流程</font> <br>  &nbsp &nbsp
              #<font face="等线">2) 一年产品经验，了解 AB test，之前负责 TAB FOR AMS 模块，现独立负责基于 Data Warehouse Native（eg,BigQuery，DataBricks）的实验平台出海 </font>
              #<br>
@@ -209,11 +207,14 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: <font face="华文细黑黑体">其他</font>
   content: #选择需要的格式
-  - 
-  - title: <font face="华文细黑粗体">奖项</font>
-    text: <font face="等线">曾连续获得四五星</font>
+  - title: <font face="华文细黑粗体">专业技能</font>
+    detail:  <font face="等线"><strong>1) 平台建设：</strong>&nbsp 建设小游戏 ABtest 平台、建设数据开发模块、海外实验平台的 Warehouse Native 能力、跨团队 PCAD/WXAD 联合实验等；</font> <br>  &nbsp &nbsp
+             <font face="等线"><strong>2) 技术栈掌握：</strong>&nbsp 具备数据产品和中后台能力，可以使用 SQL、Python，熟悉大数据组件如 Hadoop、Spark、Hive、Flink、Kafka 等，能与研发、测试高效沟通；</font> <br>  &nbsp &nbsp
+             <font face="等线"><strong>3) 数据产品开发：</strong>&nbsp掌握数据产品常用技能，如埋点、上报、用户行为分析、指标体系、SQL 取数、看板搭建等；</font> <br>  &nbsp &nbsp
+             <font face="等线"><strong>4) 项目管理：</strong>&nbsp 拥有出色的项目管理能力，能够识别和管理项目风险，确保项目按计划顺利进行。</font> 
   - title: <font face="华文细黑粗体">其他</font>
     text: <font face="等线">性格外向，积极主动，擅长沟通，可以使用英语口语交流，座右铭：有道无术 术尚可求 有术无道 止于术</font>
+  
   #   items: #单行列表
   #   - 睡觉
   #   - 吃饭
