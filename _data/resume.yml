@@ -138,10 +138,9 @@ main: #简历主要内容，
     detail: <font face="等线"><font size=4><strong>项目简介：作为 DataMesh 数据处理平台离线模块负责人，支持 10+ Sources，10+ Sinks 接入， 日均 3w+ 数据链路平稳运行</strong></font></font> <br>  &nbsp &nbsp
             <br>
             <font face="等线"><font size=4><strong> &nbsp 1) 数据开发</strong></font> <br>  &nbsp &nbsp
-            · 从 0 到 1 构建平台离线开发模块，包括 SQL 模式和数据集成模式，支持 TAB、信服线、星盘、手Q、腾讯视频等关键业务，设计并实现了高效、稳定的任务处理链路，每天新增<font color=#FF7F00><strong> 100+ </strong></font>离线开发任务，稳定运行 <font color=#FF7F00><strong> 3.5w+ </strong></font> 链路，通过简化用户界面和操作流程，显著降低了用户学习和使用US 的门槛，成为平台的主要用户流量来源 <br> &nbsp &nbsp 
+            · 从 0 到 1 构建平台离线开发模块，包括 SQL 模式和数据集成模式，支持 TAB、信服线、星盘、手Q、腾讯视频等关键业务，设计并实现了高效、稳定的任务处理链路，每天新增<font color=#FF7F00><strong> 100+ </strong></font>离线开发任务，稳定运行 <font color=#FF7F00><strong> 3.5w+ </strong></font> 链路，通过简化用户界面和操作流程，显著降低了用户学习和使用 US 的门槛，成为平台的主要用户流量来源 <br> &nbsp &nbsp 
             · 支持跨数据源查询、SQL调试、写入条数监控和任务关键指标上报，降低使用门槛，提升用户开发效率，其中SQL调试每天<font color=#FF7F00><strong> 500+ </strong></font> 任务<br> &nbsp &nbsp 
-            · 实现多数据源读取，写入。如 MySQL、PostgreSQL、Thive、社区 Hive、Impala、ClickHouse等<br> &nbsp &nbsp 
- <br>
+            · 实现多数据源读取，写入。如 MySQL、PostgreSQL、Thive、社区 Hive、Impala、ClickHouse等<br> &nbsp &nbsp  <br>
             <font face="等线"><font size=4><strong> &nbsp 2) 平台运营</strong></font>  <br>  &nbsp &nbsp
             ·  <font color=#FF7F00><strong>产品运营：</strong></font>策划并且举办《大数据前沿及批流一体的 Flink 技术揭秘 | 原力技术沙龙》直播观看人数<font color=#FF7F00><strong> 1000+ </strong></font> <br>  &nbsp &nbsp
             ·  <font color=#FF7F00><strong>技术理解：</strong></font>发表 KM 文章： <a href="https://km.woa.com/articles/show/567781">《万字长文带你了解大数据的前世今生》</a> &nbsp 获得收藏 <font color=#FF7F00><strong> 100+ </strong></font>  <br>  &nbsp &nbsp
