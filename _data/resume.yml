@@ -118,7 +118,7 @@ main: #简历主要内容，
             · <font color=#FF7F00><strong>项目成果： </strong></font>：目前SUMO、Rgame使用中、SuperCell接入中 <a href="https://docs.abetterchoice.ai/guide/data/data-warehouse"> <strong> 简单介绍 Warehouse Native 实验平台 </strong> </a>
             <br> <br> 
             <font face="等线"><font size=4><strong> &nbsp 4) 实验管理模块</strong></font>  <br>  &nbsp &nbsp 
-            · 负责实验平台的实验管理模块，确保模块的高效运行和持续优化，收集和分析用户反馈，结合满意度问卷结果，深入理解用户需求，在接手一个月内，迅速响应并上线了<font color=#FF7F00><strong> 100+ </strong></font>项用户需求和优化点，显著提升了用户体验。建立并维护用户群，定期发布周报和月报，构建了有效的双向沟通渠道，通过持续的用户参与和反馈循环，成功将用户满意度从<font color=#FF7F00><strong> 3.5提升至3.97</strong></font> <br>  &nbsp &nbsp             
+            · <font color=#FF7F00><strong>产品迭代： </strong></font>：负责实验平台的实验管理模块，确保模块的高效运行和持续优化，收集和分析用户反馈，结合满意度问卷结果，深入理解用户需求，在接手一个月内，迅速响应并上线了<font color=#FF7F00><strong> 100+ </strong></font>项用户需求和优化点，显著提升了用户体验。建立并维护用户群，定期发布周报和月报，构建了有效的双向沟通渠道，通过持续的用户参与和反馈循环，成功将用户满意度从<font color=#FF7F00><strong> 3.5提升至3.97</strong></font> <br>  &nbsp &nbsp             
             <br>
 
   - title: <font face="华文细黑粗体">腾讯 - 数据工程 & 后台开发 </font>
@@ -145,14 +145,13 @@ main: #简历主要内容，
             · 主导从 0 到 1 构建平台的离线开发模块，包括 SQL 模式和数据集成模式，以支持 TAB、信服线、星盘、手Q、腾讯视频等关键业务，设计并实现了高效、稳定的任务处理链路，每天新增<font color=#FF7F00><strong> 100+ </strong></font>离线开发任务，稳定运行 <font color=#FF7F00><strong> 3.5w+ </strong></font> 链路，通过简化用户界面和操作流程，显著降低了用户学习和使用US 的门槛，成为平台的主要用户流量来源 <br> &nbsp &nbsp 
             · 实现了对 MySQL、PostgreSQL、Thive、社区 Hive 的读取支持，以及对 Impala、ClickHouse、Thive、Iceberg 的写入支持<br> &nbsp &nbsp 
             · 支持跨数据源查询、SQL调试、写入条数监控和任务关键指标上报，极大提升了用户体验，降低了使用门槛<br> &nbsp &nbsp 
-            <br>
-            <font face="等线"><font size=4><strong> &nbsp 2) 离线 DAG</strong></font>  <br>  &nbsp &nbsp 
             · 参与建设数据处理平台上面的离线工作流编排，目前 DAG 支持 DQC、SuperSQl、PySQL、PySpark、HTTP、SparkJar 等节点，主导 ADHOC 能力建设，提升了平台的灵活性和数据处理能力 <br>  &nbsp &nbsp 
             <br>
+            <br>
             <font face="等线"><font size=4><strong> &nbsp 3) 承担平台运营工作</strong></font>  <br>  &nbsp &nbsp
-            · 策划并且举办《大数据前沿及批流一体的 Flink 技术揭秘 | 原力技术沙龙》直播观看人数<font color=#FF7F00><strong> 1000+ </strong></font> <br>  &nbsp &nbsp
-            · 发表 KM 文章： <a href="https://km.woa.com/articles/show/567781">《万字长文带你了解大数据的前世今生》</a> &nbsp 获得收藏 <font color=#FF7F00><strong> 100+ </strong></font>  <br>  &nbsp &nbsp
-            · 录制平台新人指引视频： <a href="https://km.woa.com/articles/show/456481">《灯塔 BI》</a> &nbsp ，获得<font color=#FF7F00><strong> 1w+ </strong></font>播放量及众多好评，帮助新用户快速上手平台操作
+            ·  <font color=#FF7F00><strong>产品运营：</strong></font>策划并且举办《大数据前沿及批流一体的 Flink 技术揭秘 | 原力技术沙龙》直播观看人数<font color=#FF7F00><strong> 1000+ </strong></font> <br>  &nbsp &nbsp
+            ·  <font color=#FF7F00><strong>技术理解：</strong></font>发表 KM 文章： <a href="https://km.woa.com/articles/show/567781">《万字长文带你了解大数据的前世今生》</a> &nbsp 获得收藏 <font color=#FF7F00><strong> 100+ </strong></font>  <br>  &nbsp &nbsp
+            ·  <font color=#FF7F00><strong>用户视角：</strong></font>录制平台新人指引视频： <a href="https://km.woa.com/articles/show/456481">《灯塔 BI》</a> &nbsp ，获得<font color=#FF7F00><strong> 1w+ </strong></font>播放量及众多好评，帮助新用户快速上手平台操作
   #   sub:  全球基金部门
   #   duration: "2018年6月 - 2018年8月"
   #   tags:
