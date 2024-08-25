@@ -146,7 +146,6 @@ main: #简历主要内容，
             · 支持跨数据源查询、SQL调试、写入条数监控和任务关键指标上报，极大提升了用户体验，降低了使用门槛<br> &nbsp &nbsp 
             · 参与建设数据处理平台上面的离线工作流编排，目前 DAG 支持 DQC、SuperSQl、PySQL、PySpark、HTTP、SparkJar 等节点，主导 ADHOC 能力建设，提升了平台的灵活性和数据处理能力 <br>  &nbsp &nbsp 
             <br>
-            <br>
             <font face="等线"><font size=4><strong> &nbsp 2) 承担平台运营工作</strong></font>  <br>  &nbsp &nbsp
             ·  <font color=#FF7F00><strong>产品运营：</strong></font>策划并且举办《大数据前沿及批流一体的 Flink 技术揭秘 | 原力技术沙龙》直播观看人数<font color=#FF7F00><strong> 1000+ </strong></font> <br>  &nbsp &nbsp
             ·  <font color=#FF7F00><strong>技术理解：</strong></font>发表 KM 文章： <a href="https://km.woa.com/articles/show/567781">《万字长文带你了解大数据的前世今生》</a> &nbsp 获得收藏 <font color=#FF7F00><strong> 100+ </strong></font>  <br>  &nbsp &nbsp
