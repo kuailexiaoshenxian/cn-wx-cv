@@ -82,6 +82,7 @@ main: #简历主要内容，
     duration:  <font face="汉仪楷体">2023年6月 - 2024年8月</font>
     tags:
     - <font face="黑体">实验管理</font>
+    - <font face="黑体">小游戏运营平台</font>
     - <font face="黑体">AMS广告实验</font>
     - <font face="黑体">微信联合实验</font>
     - <font face="黑体">实验出海</font>
@@ -97,13 +98,12 @@ main: #简历主要内容，
     # - 画像提升 
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠) 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
-    detail: <font face="等线"><font size=4><strong>项目简介：作为Tencent AB Test平台产品策划，建设小游戏运营平台 MVP 版本 <a href="https://abetterchoice.cn/"> <strong>可点击查看</strong> </a> 、AB Test 海外版本</strong></font></font> <br>  &nbsp &nbsp
+    detail: <font face="等线"><font size=4><strong>项目简介：作为Tencent AB Test平台产品策划，建设小游戏运营平台 MVP 版本 、AB Test 海外版本</strong></font></font> <br>  &nbsp &nbsp
            <br>
-            <font face="等线"><font size=4><strong> &nbsp 1) AMS 广告实验</strong></font> <br>  &nbsp &nbsp
-            · 作为 Owner 整体负责小游戏精细化运营平台产品规划及建设，包含 SDK 集成、官网、场景化 AB 实验、特性开关、远程配置、数据管理等模块。 <br> &nbsp &nbsp 
+            <font face="等线"><font size=4><strong> &nbsp 1)小游戏运营平台</strong></font> <br>  &nbsp &nbsp
+            · 作为 Owner 整体负责小游戏精细化运营平台产品规划及建设，包含 SDK 集成、官网、场景化 AB 实验、特性开关、远程配置、数据管理等模块。  <a href="https://abetterchoice.cn/"> <strong>平台链接</strong> </a><br> &nbsp &nbsp 
             · 作为 Owner 整体负责平台客户成功，参加小游戏开发者大会，挖掘外部意向客户10+，司内客户斗地主。目前正在接入中 <br> &nbsp &nbsp 
             · 培养实习生一个、测试外包一个 <br> &nbsp &nbsp 
-            <br>
             <br>
             <font face="等线"><font size=4><strong> &nbsp 1) AMS 广告实验</strong></font> <br>  &nbsp &nbsp
             · 作为 Owner 整体负责实验平台 AMS 业务的产品、运营工作，包含接入实验、用户问题处理、并根据用户反馈进行平台功能设计与迭代，成功落地<font color=#FF7F00><strong> 8000+ </strong></font> 个实验，显著提升了广告投放效果。 <br> &nbsp &nbsp 
