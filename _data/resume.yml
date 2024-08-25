@@ -204,13 +204,13 @@ main: #简历主要内容，
 #others 其他简略内容(列表)
 others: #其他列表显示
 - type: others #ID可以为空
-  name: <font face="华文细黑黑体">其他</font>
+  name: <font face="华文细黑黑体">技术栈</font>
   content: #选择需要的格式
   # - title: <font face="华文细黑黑体">专业技能</font>
-    detail:  <font face="等线"><strong>1) 平台建设：</strong>&nbsp 建设小游戏 ABtest 平台、建设数据开发模块、海外实验平台的 Warehouse Native 能力、跨团队 PCAD/WXAD 联合实验等；</font> <br>  &nbsp &nbsp
-             <font face="等线"><strong>2) 技术栈掌握：</strong>&nbsp 具备数据产品和中后台能力，可以使用 SQL、Python，熟悉大数据组件如 Hadoop、Spark、Hive、Flink、Kafka 等，能与研发、测试高效沟通；</font> <br>  &nbsp &nbsp
-             <font face="等线"><strong>3) 数据产品开发：</strong>&nbsp掌握数据产品常用技能，如埋点、上报、用户行为分析、指标体系、SQL 取数、看板搭建等；</font> <br>  &nbsp &nbsp
-             <font face="等线"><strong>4) 项目管理：</strong>&nbsp 拥有出色的项目管理能力，能够识别和管理项目风险，确保项目按计划顺利进行。</font> 
+  detail:  <font face="等线"><strong>1) 平台建设：</strong>&nbsp 建设小游戏 ABtest 平台、AMS 实验平台、海外实验平台的 Warehouse Native 能力、跨团队联合实验、数据开发模块等；</font> <br>  &nbsp &nbsp
+            <font face="等线"><strong>2) 技术栈掌握：</strong>&nbsp 具备数据产品和中后台能力，可以使用 SQL、Python，熟悉大数据组件如 Hadoop、Spark、Hive、Flink、Kafka 等，能与研发、测试高效沟通；</font> <br>  &nbsp &nbsp
+            <font face="等线"><strong>3) 数据产品开发：</strong>&nbsp掌握数据产品常用技能，如埋点、上报、用户行为分析、指标体系、SQL 取数、看板搭建等；</font> <br>  &nbsp &nbsp
+            <font face="等线"><strong>4) 项目管理：</strong>&nbsp 拥有出色的项目管理能力，能够识别和管理项目风险，确保项目按计划顺利进行。</font> 
   
   #   items: #单行列表
   #   - 睡觉
