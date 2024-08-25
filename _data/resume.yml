@@ -79,7 +79,7 @@ main: #简历主要内容，
   content:
   - title: <font face="华文细黑粗体">腾讯 - 产品策划</font>
     sub: <font face="楷体">PCG大数据平台部</font>
-    duration:  <font face="汉仪楷体">2023年6月 - 2024年5月</font>
+    duration:  <font face="汉仪楷体">2023年6月 - 2024年8月</font>
     tags:
     - <font face="黑体">实验管理</font>
     - <font face="黑体">AMS广告实验</font>
@@ -97,19 +97,26 @@ main: #简历主要内容，
     # - 画像提升
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠) 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
-    detail: <font face="等线"><font size=4><strong>项目简介：作为 AB Test 平台产品策划，打造科学、准确的实验决策平台，并建设 AB Test 海外版本</strong></font></font> <br>  &nbsp &nbsp
+    detail: <font face="等线"><font size=4><strong>项目简介：作为Tencent AB Test平台产品策划，建设小游戏运营平台 MVP 版本 、AB Test 海外版本</strong></font></font> <br>  &nbsp &nbsp
+           <br>
+            <font face="等线"><font size=4><strong> &nbsp 1) AMS 广告实验</strong></font> <br>  &nbsp &nbsp
+            · 作为 Owner 整体负责小游戏精细化运营平台产品规划及建设，包含 SDK 集成、官网、场景化 AB 实验、特性开关、远程配置、数据管理等模块。 <br> &nbsp &nbsp 
+            · 作为 Owner 整体负责平台客户成功，参加小游戏开发者大会，挖掘外部意向客户10+，司内客户斗地主。目前正在接入中 <br> &nbsp &nbsp 
+            · 培养实习生一个、测试外包一个 <br> &nbsp &nbsp 
+            <br>
             <br>
             <font face="等线"><font size=4><strong> &nbsp 1) AMS 广告实验</strong></font> <br>  &nbsp &nbsp
             · 作为 Owner 整体负责实验平台 AMS 业务的产品、运营工作，包含接入实验、用户问题处理、并根据用户反馈进行平台功能设计与迭代，成功落地<font color=#FF7F00><strong> 8000+ </strong></font> 个实验，显著提升了广告投放效果。 <br> &nbsp &nbsp 
             · 设计落地 PCG 流量 * AMS 广告的联合实验，上线 2 个月现在已经平稳落地<font color=#FF7F00><strong> 470+ </strong></font>实验，显著提升 <font color=#FF7F00><strong>  跨团队</strong></font> 的实验迭代效率。落地 WX 流量 *  AMS 广告联合实验，目前搜一搜业务已经跑通（视频号业务正在接入中）  <br>  &nbsp &nbsp
             <br>
-            <font face="等线"><font size=4><strong> &nbsp 2) 实验管理模块</strong></font>  <br>  &nbsp &nbsp 
-            · 负责实验平台的实验管理模块，确保模块的高效运行和持续优化，收集和分析用户反馈，结合满意度问卷结果，深入理解用户需求，在接手一个月内，迅速响应并上线了<font color=#FF7F00><strong> 100+ </strong></font>项用户需求和优化点，显著提升了用户体验。建立并维护用户群，定期发布周报和月报，构建了有效的双向沟通渠道，通过持续的用户参与和反馈循环，成功将用户满意度从<font color=#FF7F00><strong> 3.5提升至3.97</strong></font> <br>  &nbsp &nbsp             
-            <br>
             <font face="等线"><font size=4><strong> &nbsp 3) Data Warehouse Native 的实验平台能力建设</strong></font>  <br>  &nbsp &nbsp
             · 实验平台为了支持 IEGG 海外游戏业务，如王者荣耀海外版 & 其他游戏工作室，需要出海。作为 Warehouse Native 实验平台的整体负责人，基于 Google Cloud 平台，快速构建并优化了基于 BigQuery 数据仓库的业务接入产品能力，以满足不同业务需求，设计并上线了灵活的数据策略，支持非敏感数据业务直接导入数据，同时为数据敏感用户提供了基于用户数据仓库的实验能力，并规划未来产品扩展，包括集成 Snowflake 和 DataBricks 等数仓能力，以支持平台的可扩展性和业务增长。<br> &nbsp &nbsp
             · 目前王者荣耀海外版已经接入，海外 3+ 工作室正在接入使用中， <a href="https://doc.weixin.qq.com/doc/w3_AIcAegY2ACku0oef0AYSiKxJtdRNO"> <strong> 简单介绍 Warehouse Native 实验平台 </strong> </a>
             <br> 
+            <font face="等线"><font size=4><strong> &nbsp 2) 实验管理模块</strong></font>  <br>  &nbsp &nbsp 
+            · 负责实验平台的实验管理模块，确保模块的高效运行和持续优化，收集和分析用户反馈，结合满意度问卷结果，深入理解用户需求，在接手一个月内，迅速响应并上线了<font color=#FF7F00><strong> 100+ </strong></font>项用户需求和优化点，显著提升了用户体验。建立并维护用户群，定期发布周报和月报，构建了有效的双向沟通渠道，通过持续的用户参与和反馈循环，成功将用户满意度从<font color=#FF7F00><strong> 3.5提升至3.97</strong></font> <br>  &nbsp &nbsp             
+            <br>
+
   - title: <font face="华文细黑粗体">腾讯 - 数据工程 & 后台开发 </font>
     sub: <font face="楷体">PCG大数据平台部</font>
     duration:  <font face="汉仪楷体">2020年6月 - 2023年5月</font>
