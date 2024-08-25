@@ -31,7 +31,7 @@ main: #简历主要内容，
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: <font face="华文细黑粗体">西安理工大学</font>
     sub: <font face="楷体">管理科学与工程</font>
-    duration: <font face="汉仪楷体">2017年9月 - 2020年7月</font>
+   # duration: <font face="汉仪楷体">2017年9月 - 2020年7月</font>
     tags:
       -
   # - title: 
