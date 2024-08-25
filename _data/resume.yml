@@ -101,7 +101,7 @@ main: #简历主要内容，
     detail: <font face="等线"><font size=4><strong>项目简介：作为 Tencent AB Test 平台产品策划，建设小游戏运营平台 MVP 版本 、AB Test 海外版本</strong></font></font> <br>  &nbsp &nbsp
            <br>
             <font face="等线"><font size=4><strong> &nbsp 1)小游戏运营平台</strong></font> <br>  &nbsp &nbsp
-            · 作为 Owner 整体负责小游戏精细化运营平台产品规划及建设，包含 SDK 集成、官网、场景化 AB 实验、特性开关、远程配置、数据管理等模块。  <a href="https://abetterchoice.cn/"> <strong>平台链接</strong> </a><br> &nbsp &nbsp 
+            · 作为 Owner 整体负责小游戏精细化运营平台产品规划及建设，包含 SDK 集成、官网、场景化 AB 实验、特性开关、远程配置、数据管理等模块。 <a href="https://abetterchoice.cn/"> <strong>平台链接</strong> </a><br> &nbsp &nbsp 
             · 作为 Owner 整体负责平台客户成功，参加小游戏开发者大会，挖掘外部意向客户10+，司内客户斗地主。目前正在接入中 <br> &nbsp &nbsp 
             · 培养实习生一个、测试外包一个 <br> &nbsp &nbsp 
             <br>
@@ -139,7 +139,7 @@ main: #简历主要内容，
             <br>
             <font face="等线"><font size=4><strong> &nbsp 1) 离线链路模块建设</strong></font> <br>  &nbsp &nbsp
             · 主导从 0 到 1 构建平台的离线开发模块，包括 SQL 模式和数据集成模式，以支持 TAB、信服线、星盘、手Q、腾讯视频等关键业务，设计并实现了高效、稳定的任务处理链路，每天新增<font color=#FF7F00><strong> 100+ </strong></font>离线开发任务，稳定运行 <font color=#FF7F00><strong> 3.5w+ </strong></font> 链路，通过简化用户界面和操作流程，显著降低了用户学习和使用US 的门槛，成为平台的主要用户流量来源 <br> &nbsp &nbsp 
-            · 实现了对 MySQL、PostgreSQL、Thive、社区 Hive 的读取支持，以及对 Impala、ClickHouse、Thive、Iceberg 的写入支持。<br> &nbsp &nbsp 
+            · 实现了对 MySQL、PostgreSQL、Thive、社区 Hive 的读取支持，以及对 Impala、ClickHouse、Thive、Iceberg 的写入支持<br> &nbsp &nbsp 
             · 支持跨数据源查询、SQL调试、写入条数监控和任务关键指标上报，极大提升了用户体验，降低了使用门槛<br> &nbsp &nbsp 
             <br>
             <font face="等线"><font size=4><strong> &nbsp 2) 离线 DAG</strong></font>  <br>  &nbsp &nbsp 
@@ -171,7 +171,7 @@ main: #简历主要内容，
 #   - title: 新闻业务数据科学
 #     duration: 
 #     tags:
-#     - Hive
+#     - Hive  
 #     - Spark
 #     - 用户调研
 #     - ABtest
