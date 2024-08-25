@@ -46,8 +46,7 @@ main: #简历主要内容，
   content:
   - title: <font face="华文细黑粗体"></font>
     items: #itmems 可以小块的方式显示
-    - <font face="等线">2年半开发经验 </font>
-    - <font face="等线">一年半产品经验</font>
+    - <font face="等线">一个有开发、运营经验的产品策划 </font>
     # - 数据可视化：Power BI, Tableau
     #- <font face="等线">大数据：HDFS、Hive、MySQL、Spark、Flink、OLAP (Impala、Kudu、ClickHouse)</font>
   - title: <font face="华文细黑粗体">专业技能</font>
