@@ -14,6 +14,7 @@ contact: #联系方式连接等3~5行
   icon: 'icons/email.svg' #图标 svg文件
 - text: "+86 18821690781"
   icon: 'icons/phone.svg'
+- text: "2020年 TX 校招生"
   # - text: "your-website.com"
   #  href: 'http://your-website.com'
   #  icon: 'icons/web.svg'
