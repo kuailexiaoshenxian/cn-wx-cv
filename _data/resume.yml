@@ -96,16 +96,16 @@ main: #简历主要内容，
     # - 画像提升 
     # - 实验配置
     # summary: 职务或者工作总结(自动折叠) 业务数据科学：负责新闻业务画像覆盖率、准确率提升，建立画像服务的指标监控体系 <br>  &nbsp &nbsp  平台数据开发：作为开发者完成数据平台的链路搭建和功能上线，为业务提供可靠的画像平台服务
-    detail: <font face="等线"><font size=4><strong>项目简介：作为 Tencent AB Test 平台产品策划，建设部门战略级探索产品小游戏 A/B Test 平台 、AMS 实验平台、海外版本</strong></font></font> <br>  &nbsp &nbsp
+    detail: <font face="等线"><font size=4><strong>项目简介：作为 Tencent A/B Test 平台产品策划，建设部门战略级探索产品小游戏 A/B Test 平台 、AMS 实验平台、海外版本</strong></font></font> <br>  &nbsp &nbsp
            <br>
             <font face="等线"><font size=4><strong> &nbsp 1) 部门战略探索 | 小游戏 A/B Test 平台产品负责人</strong></font> <br>  &nbsp &nbsp
             · <font color=#FF7F00><strong>SNF 探索： </strong></font>前期和腾讯广告优选、小游戏平台、小游戏客户多方沟通、挖掘到用户在游戏调优、变现调优上存在需求，结合小游戏全生命周期梳理出 A/B 实验解决方案<br> &nbsp &nbsp 
-            · <font color=#FF7F00><strong>产品策划： </strong></font>作为 Owner 负责部门战略探索产品小游戏 ABtest 平台，在一个月内落地上线官网、 SDK 集成、场景化 A/B 实验、特性开关、远程配置、数据管理等模块，并负责未来产品规划及建设。 <a href="https://abetterchoice.cn/"> <strong>平台链接</strong> </a><br> &nbsp &nbsp 
+            · <font color=#FF7F00><strong>产品策划： </strong></font>作为 Owner 负责部门战略探索产品小游戏 A/B Test 平台，在一个月内上线官网、 SDK 集成、场景化 A/B 实验、特性开关、远程配置、数据管理等产品能力，并负责未来产品规划及建设。 <a href="https://abetterchoice.cn/"> <strong>平台链接</strong> </a><br> &nbsp &nbsp 
             · <font color=#FF7F00><strong>客户成功： </strong></font>负责平台客户成功，参加小游戏大会，和小游戏生态其他方合作举办圆桌会，挖掘外部意向客户<font color=#FF7F00><strong> 10+ </strong></font> ，司内客户斗地主，目前正在接入中 <br> &nbsp &nbsp 
             · <font color=#FF7F00><strong>新人培养： </strong></font>培养实习生转正、测试、运营外包 <br> &nbsp &nbsp 
             <br>
             <font face="等线"><font size=4><strong> &nbsp 2) TAB for AMS 实验平台</strong></font> <br>  &nbsp &nbsp
-            · <font color=#FF7F00><strong>用户调研、平台迭代： </strong></font>：作为 Owner 整体负责实验平台 AMS 业务的产运工作，通过问卷反馈、文档登记、线下访谈、宣讲等收集用户反馈，并进行平台功能设计与迭代，成功落地<font color=#FF7F00><strong> 8000+ </strong></font> 个实验，显著提升了广告实验效率 <br> &nbsp &nbsp 
+            · <font color=#FF7F00><strong>用户调研、平台迭代： </strong></font>：作为 Owner 整体负责实验平台 AMS 业务的产运工作，通过问卷反馈、文档登记、线下访谈、宣讲等收集用户反馈，并进行平台功能设计与迭代，支持用户成功落地<font color=#FF7F00><strong> 8000+ </strong></font> 个实验，显著提升了广告实验效率 <br> &nbsp &nbsp 
             · <font color=#FF7F00><strong>痛点挖掘： </strong></font>：通过跨 BG 访谈多角色用户，得知需要跨平台做联合实验，效率低下。设计并落地 PCG 流量 * AMS 广告的联合实验，上线半年现已平稳落地<font color=#FF7F00><strong> 1000+ </strong></font>实验（半年超越旧实验平台 5 年的累积量），显著提升 <font color=#FF7F00><strong>  跨团队</strong></font> 的实验迭代效率。落地 WX 流量 *  AMS 广告联合实验，目前搜一搜、问一问、视频号均已接入  <br>  &nbsp &nbsp
             <br>
             <font face="等线"><font size=4><strong> &nbsp 3) 海外实验平台 | Data Warehouse Native 能力建设</strong></font>  <br>  &nbsp &nbsp
