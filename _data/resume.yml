@@ -105,17 +105,17 @@ main: #简历主要内容，
             · <font color=#FF7F00><strong>新人培养： </strong></font>培养实习生转正、测试、运营外包 <br> &nbsp &nbsp 
             <br>
             <font face="等线"><font size=4><strong> &nbsp 2) TAB for AMS 实验平台</strong></font> <br>  &nbsp &nbsp
-            · <font color=#FF7F00><strong>用户调研、平台迭代： </strong></font>：作为 Owner 整体负责实验平台 AMS 业务的产运工作，通过问卷反馈、文档登记、线下访谈、宣讲等收集用户反馈，并进行平台功能设计与迭代，支持用户成功落地<font color=#FF7F00><strong> 8000+ </strong></font> 个实验，显著提升了广告实验效率 <br> &nbsp &nbsp 
-            · <font color=#FF7F00><strong>痛点挖掘： </strong></font>：通过跨 BG 访谈多角色用户，得知需要跨平台做联合实验，效率低下。设计并落地 PCG 流量 * AMS 广告的联合实验，上线半年现已平稳落地<font color=#FF7F00><strong> 1000+ </strong></font>实验（半年超越旧实验平台 5 年的累积量），显著提升 <font color=#FF7F00><strong>  跨团队</strong></font> 的实验迭代效率。落地 WX 流量 *  AMS 广告联合实验，目前搜一搜、问一问、视频号均已接入  <br>  &nbsp &nbsp
+            · <font color=#FF7F00><strong>用户调研、平台迭代： </strong></font>作为 Owner 整体负责实验平台 AMS 业务的产运工作，通过问卷反馈、文档登记、线下访谈、宣讲等收集用户反馈，并进行平台功能设计与迭代，支持用户成功落地<font color=#FF7F00><strong> 8000+ </strong></font> 个实验，显著提升了广告实验效率 <br> &nbsp &nbsp 
+            · <font color=#FF7F00><strong>痛点挖掘： </strong></font>通过跨 BG 访谈多角色用户，得知需要跨系统做联合实验，效率低下。设计并落地 PCG 流量 * AMS 广告的联合实验，上线半年现已平稳落地<font color=#FF7F00><strong> 1000+ </strong></font>实验（半年超越旧实验平台 5 年的累积量），显著提升 <font color=#FF7F00><strong>  跨团队</strong></font> 的实验迭代效率。落地 WX 流量 *  AMS 广告联合实验，目前搜一搜、问一问、视频号均已接入  <br>  &nbsp &nbsp
             <br>
             <font face="等线"><font size=4><strong> &nbsp 3) 海外实验平台 | Data Warehouse Native 能力建设</strong></font>  <br>  &nbsp &nbsp
-            · <font color=#FF7F00><strong>项目背景 & 难点： </strong></font>：为了支持 IEGG 海外游戏业务游戏调优，如王者荣耀、SuperCell、Rgame工作室，需要出海，由于数据隐私和合规，需要建设 Data Warehouse Native 能力<br> &nbsp &nbsp
-            · <font color=#FF7F00><strong>产品策划： </strong></font>：作为平台的 Warehouse Native 能力建设负责人，为数据敏感用户提供了基于用户数据仓库的实验能力，并规划未来产品扩展，包括集成 Snowflake 和 DataBricks 等数仓能力，以支持平台的可扩展性和业务增长  <br> &nbsp &nbsp
-            · <font color=#FF7F00><strong>客户支持： </strong></font>：给海外客户演示产品，建设 Slack 社区构建沟通渠道，提供产品咨询、技术支持<br> &nbsp &nbsp
-            · <font color=#FF7F00><strong>项目成果： </strong></font>：目前SUMO、Rgame使用中、SuperCell接入中 <a href="https://docs.abetterchoice.ai/guide/data/data-warehouse"> <strong> 简单介绍 Warehouse Native 实验平台 </strong> </a>
+            · <font color=#FF7F00><strong>项目背景 & 难点： </strong></font>为了支持 IEGG 海外游戏业务游戏调优，如王者荣耀、SuperCell、Rgame工作室，需要出海，由于数据隐私和合规，需要建设 Data Warehouse Native 能力<br> &nbsp &nbsp
+            · <font color=#FF7F00><strong>产品策划： </strong></font>作为平台的 Warehouse Native 能力建设负责人，为数据敏感用户提供了基于用户数据仓库的实验能力，并规划未来产品扩展，包括集成 Snowflake 和 DataBricks 等数仓能力，以支持平台的可扩展性和业务增长  <br> &nbsp &nbsp
+            · <font color=#FF7F00><strong>客户支持： </strong></font>给海外客户演示产品，建设 Slack 社区构建沟通渠道，提供产品咨询、技术支持<br> &nbsp &nbsp
+            · <font color=#FF7F00><strong>项目成果： </strong></font>目前SUMO、Rgame使用中、SuperCell接入中 <a href="https://docs.abetterchoice.ai/guide/data/data-warehouse"> <strong> 简单介绍 Warehouse Native 实验平台 </strong> </a>
             <br> <br> 
             <font face="等线"><font size=4><strong> &nbsp 4) 实验管理模块</strong></font>  <br>  &nbsp &nbsp 
-            · <font color=#FF7F00><strong>产品迭代： </strong></font>：负责实验平台的实验管理模块，在接手一个月内，迅速响应并上线了<font color=#FF7F00><strong> 100+ </strong></font>项用户需求和优化点，显著提升了用户体验。建立并维护用户群，构建了有效的双向沟通渠道，定期发布周报和月报，通过持续的用户参与和反馈循环，成功将用户满意度从<font color=#FF7F00><strong> 3.5提升至3.97</strong></font> <br>  &nbsp &nbsp             
+            · <font color=#FF7F00><strong>产品迭代： </strong></font>负责实验平台的实验管理模块，在接手一个月内，迅速响应并上线了<font color=#FF7F00><strong> 100+ </strong></font>项用户需求和优化点，显著提升了用户体验。建立并维护用户群，构建了有效的双向沟通渠道，定期发布周报和月报，通过持续的用户参与和反馈循环，成功将用户满意度从<font color=#FF7F00><strong> 3.5提升至3.97</strong></font> <br>  &nbsp &nbsp             
             <br>
 
   - title: <font face="华文细黑粗体">腾讯 - 数据工程 & 后台开发 </font>
