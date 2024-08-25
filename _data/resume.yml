@@ -9,8 +9,8 @@ photo: "assets/img/企业微信截图_47d02f7f-d473-4c52-b833-78ab453dafdd.png" 
 
 #联系方式
 contact: #联系方式连接等3~5行
-- text: "echoleebo@foxmail.com" #文本内容
-  href: 'mailto:echoleebo@foxmail.com' #链接，无链接则空  
+- text: "echoqian@tencent.com" #文本内容
+  # href: 'mailto:echoleebo@foxmail.com' #链接，无链接则空  
   icon: 'icons/email.svg' #图标 svg文件
 - text: "+86 18821690781"
   icon: 'icons/phone.svg'
