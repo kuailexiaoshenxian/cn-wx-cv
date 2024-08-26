@@ -46,7 +46,7 @@ main: #简历主要内容，
   content:
   - title: <font face="华文细黑粗体"></font>
     items: #itmems 可以小块的方式显示
-    - <font face="等线">一个有开发经验、懂运营的产品策划 </font>
+    - <font face="等线">一个有3 年开发经验、运营过 3k+ 用户社群的产品策划 </font>
     - <font face="等线">积极主动、性格外向、擅长沟通、热爱学习 </font>
   - title: <font face="华文细黑粗体">外部评价</font>
     detail:  <font face="等线"><strong> PCG 骨干培养计划部门推荐学员（2024）、2022年 OUTSTANDING CONTRIBUTOR、PCG 数据课程优秀讲师（评分4.97）、A/B Test Oteam开源协同优秀个人奖、TAB实验中台联合项目团队 —— 腾讯卓越研发奖 </font> &nbsp &nbsp
